@@ -1,551 +1,512 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
-    },
-    {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "AI 财经社 - 最新文章",
+      "feedUrl": "https://rsshub.app/aicaijing/latest",
+      "siteUrl": "https://www.aicaijing.com.cn",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=357985",
-          "author": "Chris Coyier",
-          "description": "I think if you’re a DevOps person in any capacity, the utility of Docker is very clear. Your things run in containers that are identical everywhere. Assuming Docker is working/running, the code will execute in a reliably consistent way whether …",
-          "link": "https://css-tricks.com/dock-life-using-docker-for-all-the-things/",
-          "publishedOn": "2021-12-01T21:11:53.000Z",
-          "wordCount": 628,
-          "title": "Dock Life: Using Docker for All The Things!"
+          "id": "https://www.aicaijing.com.cn/article/19191",
+          "author": "市界",
+          "description": "01、Costco杀入山姆腹地\n“朴实无华的商战又要开始了吗？”\n1月19日，听同事说“山姆的草莓又降价了”，深圳90后打工人艾琳下班后立即去店里买了些。“两斤装72.3元，比之前便宜了20多块。”\n结过账后，艾琳在朋友圈发了这句感慨，没曾想引发激烈讨论。有同样晒价格战成果的，比如“山姆907g装JJ车厘子，从139元降到了94.9元”“前两天，Costco红心火龙果比山姆便宜10块，紧跟着山姆也降价了”；也有坐等“战火”烧得更旺的：“价格战打起来，免得山姆一家独大”。\nCostco是美国最大的连锁会员制超市，门店总数比沃尔玛旗下高端会员制商店山姆还要多。目前，其在全球拥有870多家门店，其中有600家开在美国总部。2019年Costco开始进入中国，第一家店开在上海，随后围绕上海以及周边一共开了五家门店，深圳店是其第六家店，也是其首次在离上海千里之外的地方开店。\n\n作为华南首家旗舰店，Costco深圳店购物面积有1.5万平方米，却只设置了一层大卖场，绝大部分是停车场。冯婷在Costco深圳店做代购，她形容开业前几天的盛况为“卖场外面堵得水泄不通”“队伍如同贪吃蛇一般”“购物车被开成了碰碰车”“经过的每一个购物车都是满载的”。\n据了解，1月12日开业的Costco深圳店，很快就办出去了13万张会员卡。按照开业优惠后199元的年费计算，短短几天，Costco深圳店光会员费就进账超2500万元。\n面对后来者Costco的进攻，山姆丝毫不敢懈怠半分。虽然深圳是它的大本营，早在1996年就在这里开了中国第一家店，目前在龙岗、龙华、福田开了三家店，但Costco的到来还是让它进入了临阵对敌的状态。\nCostco深圳店开业当天，不少山姆会员都收到了一条短信，短信开头主打感情牌，随后直接发起了折扣，比如市场价3000多元的扫拖一体机器人降到了2499元。\n“山姆很少会发这类短信。”深圳人…",
+          "link": "https://www.aicaijing.com.cn/article/19191",
+          "publishedOn": "2024-01-23T05:26:50.000Z",
+          "wordCount": null,
+          "title": "山姆的敌人又多了一个",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357344",
-          "author": "George Francis",
-          "description": "In nature, no two things are ever the same. Life is imperfect, unpredictable, and beautiful. We can walk through the same forest every day and see differently colored leaves. We can look up at the clouds every minute and watch …",
-          "link": "https://css-tricks.com/embrace-the-unpredictable/",
-          "publishedOn": "2021-12-01T15:47:46.000Z",
-          "wordCount": 726,
-          "title": "Embrace the Unpredictable"
+          "id": "https://www.aicaijing.com.cn/article/19190",
+          "author": "市界",
+          "description": "01、再度联名，没能激起水花\n“越玩越花了。”\n1月22日，贵州茅台与瑞幸咖啡再度联名上新，推出了“龙年酱香巧克力”饮品。其主打0咖啡，“龙年第一杯，每杯都含有贵州茅台酒”。不管是茅台还是瑞幸，过去几个月都在频频联名，也引发了不少人的吐槽。\n龙年酱香巧克力，面价38元/杯，1月22日到手价18元，酒精度低于0.5%vol，主要原料为纯牛奶、白酒风味厚奶（配制型含乳饮料）、香浓可可风味固体饮料。\n\n▲（截自瑞幸咖啡小程序）\n2023年9月4日，茅台与瑞幸首次联名，推出了酱香拿铁。当天，瑞幸拿铁上热搜、占领朋友圈，以刷屏之势引发了各种热议，有的瑞幸门店甚至直接爆单。瑞幸咖啡称，酱香拿铁上新当天就刷新了单品纪录，首日销量突破542万杯，首日销售额破1亿元。\n不过，与酱香拿铁比，这一次联名上新推出的酱香巧克力，却没有火起来。1月22日，截至发稿，酱香巧克力一个热搜都没有抢到，朋友圈也没几个人晒单。\n在酱香巧克力上市当日，瑞幸还上新了贺岁红龙拿铁，而且还开启了赠送代言人小卡活动。\n2023年11月27日，瑞幸咖啡官宣易烊千玺成为其全球品牌代言人。2024年1月22日起，购买瑞幸咖啡专属套餐产品，即可获赠周边系列小卡。其中，就包括购买两杯龙年酱香巧克力，赠送一张易烊千玺小卡盲盒；买三杯，赠送两张易烊千玺小卡盲盒。\n有瑞幸咖啡门店店长说，上新叠加赠送易烊千玺小卡盲盒，酱香巧克力也没有比酱香拿铁上新当天的销量更好。\n1月21日晚上九点多，黑龙江一家瑞幸咖啡门店的店长王敛终于为第二天做好了准备，“代言人小卡、新品上市，准备妥当。明天是一场恶战”。\n不料，1月22日当天并非如王敛想象的那样。“并不是一场恶战。今天店里人确实比平时多一些，但是没到去年酱香拿铁上新那种‘恶战’的地步，当时几乎全是买酱香拿铁的。”\n1月22日买酱香巧克力的跟去年酱香拿铁上新当天来买的顾客数量比，少了很多。王敛说：“在我们门店，如果说去年上新当天买酱香拿铁有10个顾客的话，今天买酱香巧克力的，大概就4个吧，很多还都是冲着小卡来的。”\n\n▲（截自小红书）\n位于山东的一家瑞幸咖啡门店的储备店长刘恋的感受，与王敛类似。\n刘恋所在的门店，顾客“比平时多了蛮多的”，但其实没有她前一天想象的多，很多人都是冲着小卡来的。“店里今天得有几十个顾客是冲着小卡来的。”\n“今天巨累，有个女生一下点了三四十杯，整整四个小时，我一直在制作，都没停。都是来要小卡的。下午休息时品尝了一下酱香巧克力，齁死了。”刘恋说。\n王敛觉得，酱香巧克力就是酒心巧克力的那个味道。这款新品，有人可以接受，也有人觉得不好喝。\n对于茅台与瑞幸来说，这次火的程度，远不如酱香拿铁上新当天。\n02、冲着易烊千玺小卡来的\n从茅台冰淇淋——“年轻人的第一口茅台”，到酱香拿铁——“年轻人的第一杯茅台”，再到茅小凌酒心巧克力——“年轻人的仪式感”，再到酱香巧克力——“龙年第一杯”，茅台在频繁拿捏年轻人。\n瑞幸是一个在“打工人”群体中话题度很高的品牌，甚至很多年轻“打工人”的一天是从一杯九块九的瑞幸咖啡开始的。但是，茅台与瑞幸的联名，第一次大家是尝鲜，第二次可能就失去新鲜感了。\n“对巧克力爱好者来说还行，我就觉得齁甜，有点腻，味道有一些奇怪。”有消费者评价道。在很多人看来，巧克力已是“甜蜜的负担”。\n相较之下，在社交平台上，到处都是分享易烊千玺小卡的。甚至有人发布关于酱香巧克力的动态后，留言区都是讨论以及想换易烊千玺小卡的。\n\n▲（截自小红书）\n茅台想要通过瑞幸连接年轻人。不过，这一次，反响似乎并不大。\n在2023年12月30日举行的茅台集团2024年度市场工作会上，茅台集团副总经理王晓维表示，预计2023年茅台集团酒类板块营收超1500亿元，同比增长18%；利润超千亿，同比增长16%。\n其中，茅台冰淇淋、茅台酒心巧克力、酱香拿铁合计实现营收约4.3亿元，同比增长约50%。其中，茅台酒心巧克力销售近20吨，酱香拿铁销售约4000万杯。\n对于贵州茅台来说，不管是酱香拿铁、茅台酒心巧克力，还是酱香巧克力，这些联名产品对业绩的贡献是次要的，最重要的是，想通过各种方式与年轻人产生连接，让年轻人有一天也开始消费茅台酒。\n只不过，这一次酱香巧克力没有预期中的好。\n（文中王敛、刘恋为化名）\n作者 | 雷彦鹏\n编辑 | 陈 芳\n运营 | 刘 珊",
+          "link": "https://www.aicaijing.com.cn/article/19190",
+          "publishedOn": "2024-01-22T10:41:23.000Z",
+          "wordCount": null,
+          "title": "茅台瑞幸又联名，火的却是易烊千玺小卡",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=356146",
-          "author": "Amelia Wattenberger",
-          "description": "What is one thing people can do to make their website better?\n Exactly what you want to build!\nAsk yourself:\nWhat drew you to development in the beginning?\nIs there an experimental API that you’ve been wanting to try out?\n…",
-          "link": "https://css-tricks.com/exactly-what-you-want/",
-          "publishedOn": "2021-12-01T15:46:29.000Z",
-          "wordCount": 491,
-          "title": "Exactly What You Want"
+          "id": "https://www.aicaijing.com.cn/article/19189",
+          "author": "市界",
+          "description": "“可以说三个视频就能刷到一个《王者荣耀》直播。”一位抖音用户感叹道。\n1月21日晚，预热了近一周的《王者荣耀》终于熬过灰度测试期，相关直播权限在抖音全面放开。“全抖音都在庆祝王者直播”话题词很快冲上抖音热榜。\n封禁五年后，以《王者荣耀》全面解封为标志，字节和腾讯终于迎来了“世纪牵手”。\n01、“腾挪”中的张大仙\n开播一分钟，人气10w+，十分钟，人气破百万。\n这是抖音全面放开下，头部主播张大仙正式首播《王者荣耀》的数据。五小时直播结束后，观看人次达到4719.7万，人数峰值近百万，累计点赞超10亿，新增百万粉丝。\n同步开播的还有从B站转来的《王者荣耀》职业选手梦泪，虽双方都有明星刷礼物助阵，但梦泪的观看人次、人气峰值等都相较于官方推流的张大仙差一倍多。\n头部主播热闹开播，中腰部主播也蹭上了一波热度。据「市界」不完全统计，截至1月22日凌晨两点半，还在直播《王者荣耀》的主播中，人气维持在1万的还有四位，1万以下的有近30位主播。\n对时常辗转于各大不稳定的游戏平台之间的游戏主播们来说，抖音的开放，是一次绝佳的机会。从流量获取难度和直接收入潜力来说，抖音都是他们“眼馋”许久的选择。有主播更是说出，“晚上坐那唠十分钟，就哐哐入账3个W（万）。”\n“不容易啊，等这一天等好久了！”官宣能在抖音直播《王者荣耀》后，张大仙这么感叹道。\n\n▲（图源/达多多；@张大仙 抖音账号）\n张大仙在抖音可过得春风满面：12月2日官宣入驻抖音，入驻当日迅速登顶抖音百强榜和人气榜，获超10亿点赞。半个多月时间，账号粉丝就破5000w了。而入驻抖音之前，张大仙在虎牙拥有粉丝2940万，粉丝量翻了一番。\n1月18日，张大仙空降《王者荣耀》直播间，体验自己最拿手的李白新皮肤，在试播并未推流的情况下，张大仙在《王者荣耀》直播间仅播出80分钟的累计在看人数，就已刷新了此前在虎牙直播4年的前三历史纪录，数据测试期就能获…",
+          "link": "https://www.aicaijing.com.cn/article/19189",
+          "publishedOn": "2024-01-22T10:32:29.000Z",
+          "wordCount": null,
+          "title": "腾讯终成抖音榜一大哥",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357109",
-          "author": "Chris Coyier",
-          "description": "I was playing this game on Apple Arcade the other day called wurdweb. It’s a fun little game! Little touches like the little shape dudes that walk around the screen (but otherwise don’t do anything) give it a lot …",
-          "link": "https://css-tricks.com/diagonal-stripes-wipe-animation/",
-          "publishedOn": "2021-11-30T17:26:35.000Z",
-          "wordCount": 946,
-          "title": "Diagonal Stripes Wipe Animation"
+          "id": "https://www.aicaijing.com.cn/article/19188",
+          "author": "市界",
+          "description": "回看刚刚过去的2023年，是我国城市更新内涵不断丰富和深化的一年。通过盘活一批低效闲置的存量，城市更新既能补齐城市发展空间不足的短板，又能为城市营造健康舒适的生活环境，换取城市高质量发展的增量。\n在优客工场、共享际创始人毛大庆看来，“城市更新不应该仅仅是物质环境的改变，更应该是生活方式、社区文化，乃至城市精神的升华。”\n2024年1月10日，由市界联合《财经天下》周刊、市界研究院举办的异想大会在北京香格里拉饭店举行，大会以“韧性·穿越奇点时刻”为主题。\n会上，毛大庆和《公益时报》社的社长赵冠军展开了精彩对谈。\n在城市化进程方面，毛大庆回顾道，“多半人都不清楚，中国在1980年的时候，国家人口只有9.38亿，平均年龄只有20.7岁，城市化率13.7%，这是一个10亿人口的极其年轻的国家。 80年我们的居民存款储蓄额370多亿，城市职工的平均工资是40块钱。这是改革开放的起点。”\n“1980年到1995年左右，社会创造力被激发。1998年，中国开启住房商品化改革；2000年，中国加入WTO；到了2004年，土地招拍挂政策出台。“1998、2000、2004这三年的三个关键的市场化大动作，为经济高速增长创造了决定性条件。”毛大庆说道。\n“目前，我国城市化基本上达到了65%，人口平均年龄也过了40岁。所以在这个节点上，我们再用土地财政、再用高杠杆等传统手法推动经济发展，恐怕非常困难了。”毛大庆表示。\n对于未来如何破局，毛大庆把它形容为登珠峰，“我们从山脚下登到5800米的时候，过程中还是相对比较容易的，现在这个高度上，我们开始感到气喘、缺氧，步履艰难，从5800到8848米去爬的时候，肯定会更不容易。”\n而在城市化之外，毛大庆重点讲到了人口变化的趋势，“2023年这一年增加了2920万人从社会贡献人口变成拿养老金的人口。到2035年，我们将有近5亿多的60岁以上人口。”毛大庆说道。…",
+          "link": "https://www.aicaijing.com.cn/article/19188",
+          "publishedOn": "2024-01-22T10:21:43.000Z",
+          "wordCount": null,
+          "title": "对话优客工场创始人毛大庆：城市更新是一个城市精神的升华",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357728",
-          "author": "Tobias Günther",
-          "description": "This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about future articles!\nThe “Reflog” is one of Git’s lesser-known features—but one that can be extremely …",
-          "link": "https://css-tricks.com/using-the-reflog-to-restore-lost-commits/",
-          "publishedOn": "2021-11-30T15:53:27.000Z",
-          "wordCount": 2431,
-          "title": "Using the Reflog to Restore Lost Commits"
+          "id": "https://www.aicaijing.com.cn/article/19187",
+          "author": "市界",
+          "description": "2024年1月10日，由投资家网主办，财经锐眼、有时间协办，北京微金科技有限公司承办的“第十二届股权投资年会”在北京千禧大酒店隆重召开。\n本次年会以“再展新篇”为主题，深度剖析股权投资全新业态，并广邀100+VC/PE、母基金投资大咖、50+上市公司，500位投资及企业精英齐聚一堂，围绕投资人、企业家、创业者等人群最关注的热点话题进行了深度交流与探讨，助力股权投资行业可持续、高质量发展。\n\n多位重量级嘉宾参与了本次年会活动（按议程出场顺序），他们是：北京市投资促进服务中心党组成员、副主任唐永宏，投资家网创始人兼CEO蒋东文，全国社会保障基金理事会原副理事长王忠民，工信部原副部长杨学山，中金资本董事长单俊葆，深圳天使母基金董事长姚小雄，碧兴物联（688671）董事长何愿平，投资家网联合创始人蒋冬敏，尚合资本管理合伙人乐德芳，重庆产业引导基金副总经理卓仁华，前海母基金主管合伙人李思平，开元国创总经理杨眉，纽尔利资本董事总经理陈宇， 海通开元执行总经理田鹰，昌科金执行董事谢思瑾，昆仲资本董事总经理王冠飞，元和资本创始合伙人张正喜，力合华昱董事长冯杰，中科创星合伙人夏琳，汇芯投资总经理王少华，光速光合执行董事郭斌，心资本合伙人吴炳见，达晨财智合伙人任俊照，东方富海合伙人宋萍萍，海尔资本管理合伙人刘璐，卓源资本创始合伙人、董事长袁宏伟，七晟资本总经理马萍萍，嘉实资本执行董事何立，清华五道口数字中国项目主任唐鑫龙，海兴电力（603556）副董事长李小青，莲花健康（600186）高级副总裁曹家胜，思创医惠（300078）总经理华松鸳，久其软件（002279）执行总裁肖兴喜，德乾投资总裁、华帝股份（002035）董事长特别助理董嘉鹏，永泰生物（06978.HK）副总裁、首席财务官兼董事会秘书杨宁，元航资本董事长张志勇，君联资本合伙人葛新宇，啟赋资本合伙人陈苏里，千山资本合伙人郑云飞，九合创…",
+          "link": "https://www.aicaijing.com.cn/article/19187",
+          "publishedOn": "2024-01-22T06:58:09.000Z",
+          "wordCount": null,
+          "title": "“投资家网·第十二届股权投资年会”在北京隆重召开",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357679",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nCloudinary (the media hosting and optimization service) has a brand new version (v3) of its WordPress plugin that has really nailed it. First, a high-level look at the biggest things this plugin does:\nIt \n…",
-          "link": "https://css-tricks.com/a-look-at-the-cloudinary-wordpress-plugin/",
-          "publishedOn": "2021-11-30T15:23:00.000Z",
-          "wordCount": 1256,
-          "title": "A Look at the Cloudinary WordPress Plugin"
+          "id": "https://www.aicaijing.com.cn/article/19185",
+          "author": "市界",
+          "description": "01、薛定谔的年终奖\n半月前，A股上市公司、国内建筑软件龙头广联达宣布“清零”全员年终奖的消息上了热搜。吴赫默默把这个消息转发到了自己所在的一个朋友小群里，并配上了一句：\n“广联达的今天，我的明天”“没有年终奖，只有年终总结”。\n对于“全员年终奖清零”，吴赫的感受或许比其他人更深。\n吴赫原本在北京一家互联网大厂工作，2022全年年终奖高达近6万元。但由于职业规划，他在2023年中选择跳槽到杭州一家腰部互联网企业：“新工作base（月基础工资）高了1千，约定好了年底双薪。”\n但在入职后不久，公司以绩效制度优化为名与员工重新签订了劳动合同，原本的13薪被调整为了年终奖，并写明“与公司当年实际经营情况挂钩”。\n这样一来，年终奖发或不发，公司就有了很大的解释空间。如今眼看龙年春节已经近在咫尺，公司仍没有明确年终奖是否发放，这让吴赫的心情从焦灼期盼转为纠结：“不知道是不是我的观察比较主观，感觉最近办公室里的气压都低了很多。”\n唯一让他感到“安慰”的是，听说自己的老东家、那家总部位于北京的大厂也在压低年终奖。这一年，“年终奖缩水了”并非孤例，而是成为了互联网打工人的普遍感受。\n在快手工作的郜琪琪告诉「市界」：“往年拿S、A高绩效的同事人数不少，但从今年开始，评S和A都要经过领导们讨论评选，流程上更严格，甚至拿了S级的员工要做全公司公示。”\n快手的年终绩效评级标准分为S、A、B、C四级，往年分别对应着8+个月、6-8个月、4个月、0-2个月工资的年终奖。\n\n而从2023年开始绩效评定的流程变得更严格，客观上意味着公司付出的年终奖总额“缩水”，员工能够拿到手的部分变少也不言自明。“估计1月31号前一两天会沟通绩效，31号正式发放年终，这几天压力太大了。”郜琪琪讲道。\n一位在美团工作了3年的员工也有类似的感受：“去年这时候，正好赶上一波裁员潮，年终奖评级几乎变成了公司用于裁员的参考。当时le…",
+          "link": "https://www.aicaijing.com.cn/article/19185",
+          "publishedOn": "2024-01-21T02:19:34.000Z",
+          "wordCount": null,
+          "title": "别盼了，年终奖没有了",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357565",
-          "author": "Geoff Graham",
-          "description": "Apple Music has this “Spatial Audio” feature where the direction of the music in your headphones is based on the location of the device. It’s tough to explain just how neat it is. But that’s not what I’m here to …",
-          "link": "https://css-tricks.com/recreating-the-apple-music-hits-playlist-animation-in-css/",
-          "publishedOn": "2021-11-29T16:38:49.000Z",
-          "wordCount": 1516,
-          "title": "Recreating the Apple Music Hits Playlist Animation in CSS"
+          "id": "https://www.aicaijing.com.cn/article/19184",
+          "author": "市界",
+          "description": "2023年的中国新能源汽车市场，可以用一个词形容——精彩。\n合资车颓势尽显，自主品牌站上“C位”；边缘造车新势力走到生死边缘；友商之间火药味儿更甚；价格战此起彼伏……\n热闹归热闹，但从整体上看，新能源汽车市场仍整体向好。据乘联会预计，2023年新能源车市场零售和全国乘用车厂商新能源批发量分别为774.4万辆和889.5万辆，同比分别增长36%和37%。\n不少主机厂传来喜讯。首先便是比亚迪，2024年开年就官宣超额完成了2023年制定的300万辆的销售目标，并表示其第四季度交付量超越特斯拉，成为全球最大的纯电车制造商。\n紧接着，理想汽车也宣布，2023年全年交付新车376030辆，同比增长182.2%，不仅超额完成目标，更实现了单月交付量超5万辆的里程碑。而小鹏汽车和AITO问界，也终于走出低谷，过去一年迎来逆袭，月交付量屡创新高。\n然而，就在友商皆大欢喜的时候，哪吒汽车却笑不出来。\n\n2023年，广汽埃安销量同比增长77%；蔚来、小鹏的销量分别同比增长了31%和17%；零跑、极氪、问界、岚图也分别有不同程度的增长。\n只有哪吒汽车，据官方披露，2023年全系交付量为127496辆，同比下滑16.2%，较25万—30万辆的年销售目标相距甚远。它还成为头部新势力中，唯一出现销量同比下滑的车企。\n01、CEO在线招营销人才\n哪吒汽车第一次闯入大众视野，是在2022年\n作为合众新能源汽车有限公司（简称“合众新能源”）旗下新能源品牌，这一年，哪吒汽车超越“蔚小理”，拿下了造车新势力销量冠军的位置，并成为首家年销量突破15万辆的造车新势力。\n要知道，之前的两年，哪吒汽车的销量仅有15091辆和69674辆。因此无论是销量还是名气，哪吒汽车在2022年都算是翻了身。可惜好日子没过多久，哪吒汽车就哑火了。\n2024年1月2日，公司CEO张勇在微博上公开反思，承认2023年哪吒汽车确实做的不够…",
+          "link": "https://www.aicaijing.com.cn/article/19184",
+          "publishedOn": "2024-01-20T02:50:03.000Z",
+          "wordCount": null,
+          "title": "哪吒被逼到了悬崖边",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357976",
-          "author": "Chris Coyier",
-          "description": "This is a neat idea for a research project. The big map is fun, but the research had some tidbits in it worth looking at.\nThe average favicon network request takes 130ms, at least from our speedy cloud instance.\n…",
-          "link": "https://css-tricks.com/we-analyzed-425909-favicons/",
-          "publishedOn": "2021-11-29T16:38:07.000Z",
-          "wordCount": 483,
-          "title": "We Analyzed 425,909 Favicons"
+          "id": "https://www.aicaijing.com.cn/article/19183",
+          "author": "市界",
+          "description": "01、龙茅，一天一个价\n“前几天去提货，本来以为一瓶龙茅能赚5000块，没想到，门口的黄牛3500块收，只赚了1000块。”贵州茅台龙年生肖酒发布没几天，河南的一位“茅粉”就申购成功了。\n在600万人中申购成功，需要足够大的运气。“赚了1000块”，同样很幸运。因为，自发布以来，龙茅的市场价格，每天都在掉，一天一个价，甚至一天几个价。\n在酒友圈及一些群里，“茅粉”们每天都聊着新的价格。\n“今天提了两瓶，走出贵州茅台门店就出给黄牛了，一瓶3400块。留手上怕砸了。”\n“3400不错了，我早就中了，等到昨天才有货，3300赶紧出掉了。越等越不值钱。”\n到了1月16日、17日，有不少“茅粉”称，当地黄牛的回收价格已经跌到3200元左右了。\n在这些“茅粉”眼中，龙茅是“断崖式掉价”。\n1月6日，贵州茅台（甲辰龙年）生肖系列产品如约而至。其中，备受瞩目的53%vol 500ml贵州茅台酒（甲辰龙年），发售价为2499元，延续了牛、虎、兔年的定价。此外，还有53%vol 375ml×2贵州茅台酒（甲辰龙年）包装版，价格为3599元。\n\n▲（截自小红书）\n多年以来，贵州茅台对生肖酒都格外重视。在龙年生肖酒发布会上，贵州茅台董事长丁雄军、总经理王莉均出席了。\n1月7日起，龙茅在贵州茅台自家的销售平台i茅台App上正式开启申购。每天只有少量名额。虽然每天平均有600万人预约申购，但申购成功的概率只有0.2%左右。\n“茅粉”口中的龙茅，即53度贵州茅台酒（甲辰龙年）。500ml装，也是所谓的“正装”。相较于其他规格与包装，“正装”龙茅更受青睐。\n1月17日，正装龙茅申购人数为679.5万人，而申购成功的仅9476人，成功率不到0.14%。也就是说，平均每714个申购者中，仅有1人能申购成功。\n前期量少价也高，市场价一度炒至8000元，但事实上，有价无市，交易者少。很快，就跌至6000元，又跌至…",
+          "link": "https://www.aicaijing.com.cn/article/19183",
+          "publishedOn": "2024-01-19T09:44:27.000Z",
+          "wordCount": null,
+          "title": "每天600万人抢龙茅，出门就赚上千元",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357271",
-          "author": "Chris Coyier",
-          "description": "I’ve got some blind spots in CSS-related performance things. One example is the will-change property. It’s a good name. You’re telling the browser some particular property (or the scroll-position or content) uh, will, change:\n.el {\n  will-change: opacity;\n\n…",
-          "link": "https://css-tricks.com/when-is-it-right-to-reach-for-contain-and-will-change-in-css/",
-          "publishedOn": "2021-11-26T20:43:05.000Z",
-          "wordCount": 2084,
-          "title": "When is it “Right” to Reach for  contain and will-change in CSS?"
+          "id": "https://www.aicaijing.com.cn/article/19182",
+          "author": "市界",
+          "description": "1月19日，一条“身家600亿富豪给员工每人1万红包”的消息登上热搜，这家企业就是豪气满满的辽宁方大。\n1月18日深夜，辽宁方大集团通过官微发布消息称，近日连续在旗下上市公司东北制药、中兴商业等企业调研，除对相关工作提出意见和建议外，董事长方威还建议向员工发放现金红包。其中，两家公司在职员工1人1万元，而中兴商业的退休员工每人3000元，东北制药的退休员工每人2000元。\n不仅如此，其同时还提出，符合条件的情况下，全员涨薪10%的建议。\n时至年终，有关年终奖的话题，更能引爆大众的吐槽欲，而这一话题也的确引发热议，“这是我素未谋面的老板啊，你还记得我吗”、“怎么样才能让老板看到这条热搜，今年给我多发一点奖金呢”。不过，也有网友表示，“这不是建议发放吗，还没有确定，也就存在着不发放的可能”、“那股民的钱，不就少了吗”。\n其实，对于动辄坐拥数千员工的上市公司而言，这笔钱的确不是个小数目。东财Choice数据显示，截至2022年年末，中兴商业在职员工总数为1241人，而东北制药在职员工总数为6694人，这还不算退休人员。这意味着，方威此番的发放奖金金额，可达到8000万元以上。\n辽宁方大集团其实很有钱，并且也有“发钱”的传统，甚至还因“现金墙”事件屡次登上热搜，因此并非完全的噱头。官网显示，仅2017年~2020年，辽宁方大集团的上缴税金金额，就达400亿元。更何况，截至2023年第3季度，中兴商业与东北制药的现金流较为充裕，拿出这笔资金不成问题。\n天眼查APP显示，辽宁方大集团实业有限公司成立于2000年，主要从事产业投资及对本企业所投资产进行管理等业务，注册资本10亿元，老板方威是实际控制人与最终受益人，并且也是中兴商业、东北制药、方大炭素、方大特钢等集团旗下上市公司的实控人。\n\n而这位来自辽宁沈阳的老板，不仅名下拥有15家企业，且动辄都是注册资本上亿的“大家伙”，还是一位名副其实的百亿富豪。在2023年10月公布的《2023年胡润百富榜》中，方威以630亿元的身家排名第59位，与龙湖的吴亚军、银泰的沈国军以及恒瑞医药的孙飘扬等人，处于同一梯队。\n（作者丨市界 冯晨晨，编辑| 刘肖迎）",
+          "link": "https://www.aicaijing.com.cn/article/19182",
+          "publishedOn": "2024-01-19T08:00:28.000Z",
+          "wordCount": null,
+          "title": "员工每人1万红包！辽宁百亿富豪又上热搜",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357239",
-          "author": "Neale Van Fleet",
-          "description": "I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …",
-          "link": "https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/",
-          "publishedOn": "2021-11-26T16:12:33.000Z",
-          "wordCount": 2444,
-          "title": "A Handy Little System for Animated Entrances in CSS"
+          "id": "https://www.aicaijing.com.cn/article/19181",
+          "author": "市界",
+          "description": "商业之外，游戏里，亦有几代人的青春记忆。\n面庞并不年轻的封枫，是一名80后游戏爱好者。他早年间在网吧里，“打打杀杀”的日子，已经一去不复返了。然而，时光匆匆中，封枫经常会在恍惚间，想起很多年前，他在网吧里玩的游戏，比如《传奇》。这款游戏是70后、80后的至爱之一。\n在这个网络游戏里，会有同行者变成朋友，会有胜利感和荣耀感，会有行走江湖的潇洒感。“有太多的感情在里面了。”在向「市界」提及《传奇》时，封枫叹了好几口气。令封枫一直耿耿于怀的是，十年前，陈天桥抛弃了《传奇》，也抛弃了他们这些玩家。“\n陈天桥是盛大网络的创始人。他在2001年，也就是盛大网络成立两年后，拿下韩国网游《传奇》的中国代理权。这个游戏在2003年爆火，注册人数接近一亿。可以说，大赚特赚的《传奇》，是盛大网络2004年上市成功，陈天桥2004年变成最年轻首富的大功臣。\n然而，陈天桥不止一次说，“《传奇》是个烂游戏。”在封枫看来，这种潜意识里对《传奇》的定性，是陈天桥在2014年，清空盛大游戏，进而抽身离去的诱因之一。陈天桥有陈天桥的决绝。任枫们有他们的留恋，比如对《传奇》的深切怀念，它是他们青葱岁月的同行者。\n\n《传奇》玩家留在了回忆里，而陈天桥早已经开启新的事业篇章。这也使得这位前首富，即便是隐身十年之久，他的财富也还在悄悄膨胀。\n2023年，陈天桥夫妇以530亿元的身家，位列《胡润百富榜》第77名，排名同比提升十个位次，比碧桂园杨惠妍家族、万达王健林家族、合生朱孟依等国内老牌地产家族身家都高。不仅如此，2024年1月中旬，有媒体曝出，陈天桥还成了美国的大地主。这个前游戏大佬，在大起大落后，是怎么做到持续造富的？\n01、从王者到“造王者”\n其实，在清空盛大游戏（盛大网络分拆出来的公司）之前，陈天桥就积累了巨量财富。\n2004年，陈天桥以将近百亿的身家，成为中国最年轻首富。彼时，不同于其他富豪盘根错节的商业版…",
+          "link": "https://www.aicaijing.com.cn/article/19181",
+          "publishedOn": "2024-01-19T06:08:08.000Z",
+          "wordCount": null,
+          "title": "隐身十年，中国前首富身价飙至530亿",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357294",
-          "author": "George Francis",
-          "description": "The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …",
-          "link": "https://css-tricks.com/creating-generative-patterns-with-the-css-paint-api/",
-          "publishedOn": "2021-11-24T15:49:08.000Z",
-          "wordCount": 5674,
-          "title": "Creating Generative Patterns with The CSS Paint API"
+          "id": "https://www.aicaijing.com.cn/article/19180",
+          "author": "市界",
+          "description": "豪宅专业户仁恒置地2023年的成绩单来了。\n1月18日，仁恒置地集团有限公司发布了2023年12月未经审计的主要运营数据。\n数据显示，2023年12月，该集团连同其共同控制实体及联营公司的住宅、商业物业以及车位总合约预售金额约为人民币31.18亿元，合约预售面积为94382平方米，相比2022年同期分别下降49.1%及下降50.7%。\n全年累计截至2023年12月31日，该集团连同其共同控制实体及联营公司的住宅、商业物业以及车位的总合约预售金额约为人民币323.52亿元，合约预售面积为1237468平方米，相比2022年同期分别下降52.5%及下降13.7%。\n除此以外，截至2023年12月31日，该集团连同其共同控制实体及联营公司录得已认购未签约的总预售金额约为人民币19.97亿元，预计将陆续于未来月份转成合约预售。\n2023年12月，由该集团项目管理并以“仁恒”品牌销售的其它项目的总合约预售金额约为人民币2.25亿元，合约预售面积为9622平方米。\n全年累计截至2023年12月31日，由该集团项目管理并以“仁恒”品牌销售的其他项目的总合约预售金额约为人民币15.84亿元，合约预售面积为73971平方米。\n另外，苏州、深圳、济南、天津以及南京五个城市的总合约预售合计约人民币184.45亿元，占全年累计截至2023年12月31日，集团连同其共同控制实体及联营公司总合约预售比例约57.1%。\n仁恒置地一向以精雕细琢自家的产品著称，其在上海开发的几个楼盘，也成为地标性建筑，很多基金经理功成名就之后都要在仁恒楼盘买一套房，作为身价的象征，但近年来由于地产行业整体的不景气，仁恒置地的产品质量也发生崩塌，遭到一些业主的吐槽。\n天眼查APP显示，仁恒置地总部位于上海，是一家以房地产开发为主业的企业。（文：李陶 编：孙春芳）",
+          "link": "https://www.aicaijing.com.cn/article/19180",
+          "publishedOn": "2024-01-19T02:16:18.000Z",
+          "wordCount": null,
+          "title": "仁恒置地2023年销售323亿元",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357412",
-          "author": "Chris Coyier",
-          "description": "Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …",
-          "link": "https://css-tricks.com/which-svg-technique-performs-best-for-way-too-many-icons/",
-          "publishedOn": "2021-11-23T19:21:28.000Z",
-          "wordCount": 461,
-          "title": "Which SVG technique performs best for way too many icons?"
+          "id": "https://www.aicaijing.com.cn/article/19179",
+          "author": "市界",
+          "description": "01、一年收入几十亿净赚几个亿\n徽菜，作为八大菜系的末尾，一直以来都在榜单上默默无闻。它没有川菜、湘菜那样吸引眼球，也没有鲁菜、粤菜那样更有普适性，除了一道较为出名的臭鳜鱼，大多数人对徽菜的印象都很模糊。\n不过，就是这一看起来平平无奇的菜系，却跑出了一个极为亮眼的IPO。1月16日，新徽菜连锁餐饮品牌小菜园在港交所递交了招股书，成为了波折上市的中餐品牌里的一匹黑马。天眼查App显示，小菜园全称为安徽小菜园餐饮管理有限责任公司，成立于2013年，法定代表人为汪书高。\n对于皖南地区的消费者来说，小菜园并不是一个陌生的名字，凭借着客单价在50元-70元的高性价比，小菜园常被本地人称为是家常菜的后花园，臭鳜鱼、红烧肉、瓦罐汤，都是小菜园的核心品类。\n\n走薄利多销路线的小菜园，有着不错的营收业绩和利润表现。招股书显示，2021-2022年，小菜园的收入分别为26.46亿元、32.13亿元，同比增长21.4%。2023年前九个月，小菜园的收入为34.29亿元，同比增长41.6%。\n拆解财报发现，小菜园收入主要由三部分构成，分别为堂食业务、外卖业务和其它收入。其中，堂食业务占比最大，约占总营收的68%，外卖业务则从2021年15.5%的占比升至2023年前九个月的31.5%，两大业务板块加起来共占总营收的99%。\n收入规模不断扩大下，小菜园也越来越赚钱。财报数据显示，2021-2022年，小菜园的净利润分别为2.27亿元、2.38亿元。到了2023年，小菜园前九个月的净利润就已超过上一年，为4.3亿元，同比大增107.59%。\n小菜园能赚钱主要靠其门店多。截至2024年1月11日，小菜园的门店总数为548家，远高于麻六记、费大厨、绿茶、外婆家等网红餐饮品牌，并且这些门店全部是直营店，没有一家加盟店。\n“我们永远不会搞加盟。”小菜园董事长汪书高曾告诉「市界」，很多餐饮企业搞加盟主要是老板为…",
+          "link": "https://www.aicaijing.com.cn/article/19179",
+          "publishedOn": "2024-01-18T10:29:35.000Z",
+          "wordCount": null,
+          "title": "安徽大爷开餐馆一年赚了4个亿",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=356977",
-          "author": "Alaa Abd El-Rahim",
-          "description": "Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …",
-          "link": "https://css-tricks.com/control-layout-in-a-multi-directional-website/",
-          "publishedOn": "2021-11-23T16:06:44.000Z",
-          "wordCount": 4908,
-          "title": "Control Layout in a Multi-Directional Website"
+          "id": "https://www.aicaijing.com.cn/article/19178",
+          "author": "市界",
+          "description": "1月18日，「市界」独家获悉，字节跳动产品线薪酬再调整，由此前的18薪调整为15薪，总包不变，以此为计算，月基础薪资变相提高约20%。\n通知邮件中称，为提升管理效率，决定对年终奖月数大于3的薪酬方案进行调整，调整说明如下:\n\n目标年终奖月数统一调整为3个月。\n调整前后保持薪酬总包（TotalPackage）不变，月薪提升。\n本次调整不影响2023全年绩效评估。薪酬结构预计在2023全年绩效评估项目结束后的3月底完成调整，追溯至2024年1月1日生效。1~3月月薪差额将在调薪差额发放日一同发放。\n\n多位产品员工认为，年包不变前提下，基础月薪提高意味着到手薪资变多，且年终奖影响变小，利于跳槽。“对于后续再涨薪也有一定影响”，有员工分析认为，“现在所谓涨的只是月基础薪资，总包没变。”\n2022年，字节抖音电商运营团队就经历了一次“15薪变18薪”调整，从原有的3个月绩效改为6个月绩效，提升了年终奖的比例。彼时有业内分析表示，抖音电商处在高速发展期，高绩效激励有利于提高员工积极性，但也视为一种变相“降薪”。\n一年后，这项调薪政策就有所“反复”。2023年3月，抖音电商的数分序列就从18薪改为15薪。彼时，有员工向「市界」推测，因为18薪年终奖比例高，再改回去也是为了节省一部分福利支出，“公司现金压力小一些。”\n另据了解，字节跳动的年终奖周期为当年度3月1日至次年2月底，结束期内在职员工均有年终奖，通常研发为3个月，产品为6个月，年终奖在3月发薪日（3月底）随当月薪资一同发放。\n作者 | 赵子坤\n编辑 | 董雨晴\n运营 | 解一帆",
+          "link": "https://www.aicaijing.com.cn/article/19178",
+          "publishedOn": "2024-01-18T10:18:46.000Z",
+          "wordCount": null,
+          "title": "独家｜字节产品18薪变15薪，月基本工资提升20%",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357149",
-          "author": "Chris Coyier",
-          "description": "Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:\nThere was a line that really stood out to me: \nThe idea that it’s alright to do whatever unethical thing is currently the \n…",
-          "link": "https://css-tricks.com/on-user-tracking-and-industry-standards-on-privacy/",
-          "publishedOn": "2021-11-22T21:00:50.000Z",
-          "wordCount": 2662,
-          "title": "On User Tracking and Industry Standards on Privacy"
+          "id": "https://www.aicaijing.com.cn/article/19177",
+          "author": "市界",
+          "description": "01、一场没达预期的发布会\n也许是会前的神秘感把大家的胃口吊得太足，1月16日，“2024比亚迪梦想日”发布会结束后，与叫好声一并在车圈涌现的，还有一些观众失望的声音。\n“以为会有一堆黑科技啥的，实际发布会的内容没有达到预期。”有观众略感遗憾。\n因为这是比亚迪把特斯拉踹下“新能源汽车销售之王”宝座后的第一场发布会，无论是车主、媒体，还是友商和圈内大佬，都对比亚迪董事长王传福当天的演讲十分期待。\n为了筹备好这次发布会，整个集团上下都严阵以待。有工作人员说，虽然不同部门介入的时间不同，但大家确实准备了好几个月，“这可以算是今年公司最重磅的发布会了。”\n王传福也相当重视，发布会这天他没有选择西装革履，而是穿着一套米色的比亚迪工程师工装上台，从视觉上加深观众对自家企业“工程师文化”的印象。可以说，每个细节比亚迪都做到位了。\n\n▲（比亚迪董事长王传福。图源/比亚迪）\n但「市界」在现场注意到，相比于发布行业首个智电融合的智能化架构（璇玑架构）、首创双循环多模态AI（璇玑AI大模型）、以及公布其智舱智驾平台和命名，整场发布会气氛最热烈、观众掌声最多的地方，是比亚迪介绍全球首创的易四方泊车，和宣布自建赛车场并对外开放的时候。\n从掌声的热烈程度看，这场发布会比亚迪大概率没有请“托”，观众的反应完全自发，大家对比亚迪智能驾驶技术的要求和期待还是很高的。\n毕竟2023年下半年，一再重申不造车的华为，在新能源汽车领域出尽了风头。先是搭载了HUAWEI ADS 2.0高阶智能驾驶系统的问界新M7大卖，之后该车型在懂车帝AEB测试中“遥遥领先”。而且在资本市场，与华为合作的上市车企，股价几乎都在上涨。\n而比亚迪的智能驾驶几乎听不到太多声音。\n华为的异军突起打了比亚迪一个措手不及。“投资者担忧比亚迪会慢下来。”去年年末，面对低迷的股价，有二级市场的从业者这样告诉「市界」。\n比亚迪工作人员解释说，公司很早…",
+          "link": "https://www.aicaijing.com.cn/article/19177",
+          "publishedOn": "2024-01-18T06:41:33.000Z",
+          "wordCount": null,
+          "title": "比亚迪放了个哑炮",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357046",
-          "author": "Chris Coyier",
-          "description": "A reader wrote to me the other day asking about this bit of CSS they came across in Wikipedia’s Common.css:\n.mw-collapsible-leftside-toggle .mw-collapsible-toggle {\n  /* @noflip */\n  float: left;\n  /* @noflip */\n  text-align: left;\n}\nWhat’s that @noflip business? That’s …",
-          "link": "https://css-tricks.com/css-decorations/",
-          "publishedOn": "2021-11-22T18:48:00.000Z",
-          "wordCount": 1090,
-          "title": "CSS “decorations”"
-        }
-      ]
-    },
-    {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
-      "articles": [
-        {
-          "id": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re asking if changes to best practises over the last year have negatively impacted the web. Is it all downhill from here? Drew McLellan talks to expert Chris Ferdinandi to find out.",
-          "link": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/",
-          "publishedOn": "2021-11-30T14:00:00.000Z",
-          "wordCount": 8722,
-          "title": "Smashing Podcast Episode 44 With Chris Ferdinandi: Is The Web Dead?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa0481fb-1555-40f1-94c2-014b5553f45f/smashing-podcast-episode-44.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19176",
+          "author": "市界",
+          "description": "1月18日，2024腾讯产业合作伙伴大会上，腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生表示：2023年腾讯云订单过百万的伙伴数量增加了四成，很多SaaS伙伴收入同比增加1倍；伙伴的付费企业客户数、客户留存率，实现了两位数增长。\n汤道生表示，产业数字化还有广阔的市场空间，未来的增长主要来自三个方面：\n一是，上云的需求向更多传统产业与非一线城市快速覆盖。很多传统企业为了降本增效，在积极把更多业务移向云端。去年，腾讯云在农业、文旅行业，与伙伴共同服务的客户数，同比增长了近三成，零售、医疗、制造等行业增幅明显。在非一线城市，腾讯云服务体系支撑带动了伙伴服务客户数同比增长27%，收入增幅比一线城市更高。\n二是，企业的数字化升级，从资源驱动，向灵活可扩展的新技术和业务提效驱动延伸。以云原生重构软件和开发体系越来越重要，同时，AI、数据库、大数据、音视频、安全以及协同办公等PaaS和SaaS应用，也成为企业数字化转型的刚需。\n汤道生提到，根据IDC的预测，包括容器、微服务、中间件在内的PaaS，到2027年，年复合增长率会达到30.5%。同时企业也越来越多借助“开箱即用”的SaaS软件，将数字化的能力快速覆盖业务全链条，到2027年， SaaS的年复合增长率会达到28.7%。\n“不管在公有云、还是私有云上，这些软件技术，要进入客户的业务场景发挥价值，就需要伙伴集成到行业解决方案中，并提供交付、运维等各项服务。”汤道生表示。\n三是，行业大模型等新技术走向场景落地，催生了从底层算力到上层智能应用的庞大需求。“制约大模型应用的算力、技术瓶颈会被持续解决，行业大模型将在各行各业落地。”汤道生表示，产业智能化是一个刚起步的增量市场，是百年一遇的巨大市场机会。\n天眼查App显示，腾讯云科技有限公司成立于2018年，位于广东省深圳市，是一家以从事软件和信息技术服务业为主的企业。企业注册资本5000万人民币。（文 | 赵子坤 编 |董雨晴）",
+          "link": "https://www.aicaijing.com.cn/article/19176",
+          "publishedOn": "2024-01-18T06:20:50.000Z",
+          "wordCount": null,
+          "title": "腾讯汤道生：上云需求向更多传统产业与非一线城市覆盖",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!",
-          "link": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
-          "publishedOn": "2021-11-30T09:45:00.000Z",
-          "wordCount": 2814,
-          "title": "It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19175",
+          "author": "市界",
+          "description": "1月17日，上汽集团委托全球最大造船集团——中国船舶集团建造的首艘远洋汽车运输船（滚装船），在上海浦东新区的海通码头开启首航。活动现场，上汽国际党委书记、副总经理赵爱民表示，上汽集团2024年海外销量目标是135万辆，2025年目标为150万辆。\n此外，他还透露，目前上汽集团在欧洲设立本土工厂的规划已取得新进展。\n为了完成2024年的出海任务，赵爱民表示，上汽集团将从多个方面进行努力：第一，从今年开始，上汽将借助名爵MG品牌百年的契机围绕销量进行品牌宣传；第二，在新产品的投放上继续发力，未来两年上汽还有14款新能源汽车出海投放；此外，高端品牌包括智己汽车、飞凡汽车也将出海，在品牌方面可能有不同的呈现方式。\n据了解，2023年，上汽集团销量约为502万辆，其中，新能源车销量约112.3万辆，同比增长4.6%，占比超过22%；海外销量约120.8万辆，同比增长18.8%。\n分地区而言，欧洲市场实现了超过25万辆的销量，澳新地区的销量接近10万辆，美洲地区的总销量超过30万辆，中东、东盟地区的销量也均超过10万辆。\n天眼查App显示，上海汽车集团股份有限公司（简称“上汽集团”），成立于1984年，上海汽车工业集团成员，位于上海市，是一家以从事汽车制造业为主的企业。该集团参股的高端新能源汽车品牌智己汽车，成立于2020年；而由上汽集团控股的飞凡汽车成立于2021年。（文|杨俏 编辑|田晏林）",
+          "link": "https://www.aicaijing.com.cn/article/19175",
+          "publishedOn": "2024-01-18T06:07:52.000Z",
+          "wordCount": null,
+          "title": "上汽集团要把智己、飞凡带出海了",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.",
-          "link": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
-          "publishedOn": "2021-11-29T12:30:00.000Z",
-          "wordCount": 3237,
-          "title": "3D CSS Flippy Snaps With React And GreenSock",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a865f227-d5a1-4a63-a889-288a84fa2bce/3d-css-flippy-snaps-react-greensock.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19174",
+          "author": "市界",
+          "description": "1月17日晚，宝马集团官方微信宣布，全新BMW 5系车型将于1月25日正式上市。据悉，该车已于1月2日在沈阳生产基地下线，预计本月底公布售价，今年初开启全国交付。\n据了解，全新宝马5系长轴距版在去年广州车展正式亮相，外观方面，该车采用宝马全新一代的设计语言，长轴距车型长宽高分别为 5175/1900/1520mm，轴距为 3105mm。\n此次全新宝马5系将推出6款车型，搭载2.0T发动机，最大功率有212和287马力可选。同时，BMW 5系首次推出的纯电车型，创新纯电动BMW i5也将正式上市，该车采用了第五代eDrive电驱技术，BMW i5长轴距版将推出4款车型，搭载后置单电机，最大功率340马力，CLTC工况续航里程为567km。\n前不久，宝马集团发布了2023年销量数据，去年集团在中国市场累计交付了82.5万辆BMW和MINI汽车，同比增长4.2%。其中，BMW品牌纯电动车型全年交付近10万辆，同比增长超138%，成为宝马整体销量增长的重要支柱。天眼查App显示，宝马集团所属公司为宝马（中国）汽车贸易有限公司，成立于2005年。注册资本为2500万欧元。（文|杨俏 编辑| 田晏林）",
+          "link": "https://www.aicaijing.com.cn/article/19174",
+          "publishedOn": "2024-01-18T05:51:50.000Z",
+          "wordCount": null,
+          "title": "全新宝马5系来了，将于2024年初开启全国交付",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
-          "author": "hello@smashingmagazine.com (Nirmalya Ghosh)",
-          "description": "In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.",
-          "link": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
-          "publishedOn": "2021-11-26T12:30:00.000Z",
-          "wordCount": 2622,
-          "title": "How To Maintain A Large Next.js Application",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d36d3a50-0f3f-402e-9ceb-8164b41065bc/maintain-large-nextjs-application.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19173",
+          "author": "市界",
+          "description": "榜友们，还有24天就要过年了，知道你很累但你再坚持一下……\n\n不过如果实在太累的话，也可以来2024新榜大会，跟同行们面个基放松放松。\n\n倒计时6天，由新榜主办的主题为「内容好生意」的2024新榜大会将于1月23-24日在北京望京凯悦与各位见面！\n\n作为被内容朋友们称为「新媒体界奥斯卡」「新媒体人一年一度面基大会」的内容行业盛会，不奢求给大家带来快乐，但求能为各位创造价值——\n\n可能是在现场听到的一句有用的话，可能是见到了追更很久的内容博主，可能是交到了有趣的朋友，亦或结识了未来的商业伙伴。总之，相信你不会空手而归。\n\n以下是2024新榜大会的完整嘉宾阵容与最全议程，敬请翻阅！期待与你相见！\n\n\n今年的新榜大会嘉宾，他们有的是2023年的出圈人物：\n\n知名旅游博主浪浪星球小祁。今年6月，身为新疆导游的小祁因为一条游客表扬视频一夜爆红，3天涨粉300万，其细心、周到、真诚的服务被广大网友盛赞，目前从事旅游产品开发工作。\n\n短视频达人、唐僧模仿者田向阳。今年34岁的田向阳原本是一名建材行业从业者，三年前因偶然的机会开始扮演唐僧。最近，他凭借对86版《西游记》中唐僧形象的高度还原，以及在神态、动作和语言上对经典角色的完美再现，快速走红全网。他将和小祁一起出现在题为《「普通人顶流」爆火背后那些事儿》的圆桌对谈环节，聊聊被流量砸中后的那些心路历程。\n\n脑洞系品牌推手、头部博主王七叶。互联网从来不缺美女，但王七叶却独一无二。被称为“全网第一女海王”的她曾凭借令人印象深刻的“跳踢”“躲闪摇”火遍海内外，今年又凭借“买不起”系列再次出圈，全网粉丝数超2千万。结合今年的爆火题材，她的演讲主题是《从价格打上去看内容创作》。\n\n有的是垂直赛道的当红KOL：\n\n生活时尚博主猫一杯。猫一杯是内容传播与商业化能力兼备的知名博主。她的视频节奏感强且内容有趣，独特的个性与人设吸粉无数，目前在全网有超400…",
+          "link": "https://www.aicaijing.com.cn/article/19173",
+          "publishedOn": "2024-01-18T02:50:27.000Z",
+          "wordCount": null,
+          "title": "再坚持24天就过年了！在此之前，可以先看看2024新榜大会最终议程",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.",
-          "link": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
-          "publishedOn": "2021-11-24T12:00:00.000Z",
-          "wordCount": 4228,
-          "title": "A Showcase Of Lovely Little Websites",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a0a3a89-ba5a-40a8-af80-f8db0554af37/radiooooo-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19172",
+          "author": "市界",
+          "description": "要说水果界明星选手，车厘子必有一席之地。它外表酷似红宝石，清甜可口，软硬适中，但因售价过于昂贵，很多普通人都舍不得买来吃。\n2019年春节，“车厘子自由”甚至成了人们鉴定自己是否混得好的新标准。一线城市的白领在社交网络上感叹，即使月收入过万，偶尔可以缩衣节食入手一个价值两千的包包，也实现不了车厘子自由。\n时至今天，大众对车厘子的购买热情持续高涨，并在临近2024年春节的这段日子达到顶峰。最近，“车厘子每斤便宜60元”“车厘子价格腰斩”等话题频繁登上热搜。昔日贵族水果似乎在一夜之间跌下价格神坛，这一次人们能实现车厘子自由了吗？\n01、“膝盖斩”，车厘子自由了\n1月14日下午，位于北京的新发地水果批发处，售卖车厘子的景象热火朝天，各大店主对过往顾客卖力地吆喝着：“进来看看，车厘子便宜卖了！”\n一位店主向「市界」介绍，5斤装的2J车厘子售价180元，3J卖250元，4J卖260元。“一般不送礼自己吃的话，2J就足够了，大小和正常的国产大樱桃差不多。1J就算了，太小，去掉核没什么肉。”\n另外一家价格更低，在临近打烊的最后半个小时开启甩卖模式，5斤装的2J车厘子只卖150元，一斤单价30元，3J只要240元，一斤单价48元。\n据了解，智利车厘子根据果径大小分为L级、XL级、J级、2J级、3J级、4J级，个头越大等级和价格就越高，4J级是最高等级，果径达30毫米以上，售价也最贵。\n多位新发地店主表示，相较11月初和元旦前，现在的车厘子确实便宜了很多。\n新发地官网数据显示，2023年10月31日，智利车厘子最高卖到200元/斤。随后一路掉价，11月10日均价为120元/斤，12月10日降到65元/斤，2024年1月10日又降到42.5元/斤。短短两个多月时间内降幅近八成，几乎是“膝盖斩”了。\n拉长时间线看，车厘子确实越卖越便宜。广州江南果菜批发市场显示，2024年1月16日，智利车厘子均…",
+          "link": "https://www.aicaijing.com.cn/article/19172",
+          "publishedOn": "2024-01-17T10:11:01.000Z",
+          "wordCount": null,
+          "title": "车厘子自由来得猝不及防",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
-          "author": "hello@smashingmagazine.com (John C Barstow)",
-          "description": "With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.",
-          "link": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
-          "publishedOn": "2021-11-23T10:00:00.000Z",
-          "wordCount": 2745,
-          "title": "Adding A Dyslexia-Friendly Mode To A Website",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1fb4e46-6f0a-4631-a04c-d42376eddc82/dyslexia-friendly-mode-website.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19171",
+          "author": "市界",
+          "description": "2023年公募基金业绩凋零的大背景下，基金经理管理年限相关话题又引热议。15日有媒体报道称：“基金经理持续‘纳新’，近45%从业年限不超3年。”\n随后，“基金经理近45%从业年限不超3年”话题登上热搜。这引起不少网友的误解：“是不是有一半的基金经理，刚入行就亏50%以上？”“基金经理就是实习生啊，他们投资亏的一塌糊涂也就正常了，所以不能买基金。”甚至有网友调侃道：“难道基金经理不用投资经验？亏别人的钱，确实不需要工作经验。”\n不过，有不少业内人士都指出该说法存在歧义。\n01、“基金经理原来是实习生？”\n“这话题有歧义，明明任职不超3年，偏要写成从业不超3年。让基民把对个别基金经理的不满、对A股的不满，都砸给基金经理这个职业。”一业内人士犀利指出。\n“不是从业3年，而是管理公募产品3年。”另有业内人士强调：“实际上，基金经理的从业年限大部分都在5年以上，一般任研究员3-5年后才能升基金经理。”\n「市界」综合梳理发现，在券商研报和Wind数据中，关于基金经理管理产品时长的说法，确为“管理年限”，而非“从业年限”。例如，国金证券在2023年2月中旬发布的《2022年公募基金年度报告》中写道：38.5%的主动权益基金经理管理年限不到3年。\n\n需要注意的是，该话题虽有歧义，但管理年限争议背后所隐含的，其实是基民对基金经理实战经验不足，会导致业绩不理想的担心。\n从数据上看，基金经理群体确实年轻。瀑布资管统计数据显示，截至2024年1月10日，国内可查询到的公募基金经理共有3670人。其中自2018年初开始任职基金经理，也就是完整经历过2018年熊市的基金经理有1171人，占比31.9%；自2015年6月开始任职，完整经历过2015年熊市的基金经理有606人，占比16.5%；自2007年11月开始任职，完整经历过2008年熊市的基金经理仅只有61人，占比1.7%。\n\n▲（图源/瀑布资管）…",
+          "link": "https://www.aicaijing.com.cn/article/19171",
+          "publishedOn": "2024-01-17T05:56:09.000Z",
+          "wordCount": null,
+          "title": "45%的基金经理从业不足3年？我劝你别信",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "What’s the state of CSS, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our [online workshops on UX, front-end and design](https://smashingconf.com/online-workshops).",
-          "link": "https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/",
-          "publishedOn": "2021-11-22T16:00:00.000Z",
-          "wordCount": 1013,
-          "title": "Smashing Workshops: Winter 2021",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d2659d54-48e0-40d0-9fea-07c199eee87d/sanfran-2022.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19170",
+          "author": "市界",
+          "description": "1月16日，港股一开盘，素有“王一博概念股”之称的乐华娱乐，便毫无征兆地直线跳水60%，盘中跌幅一度超80%，最终每股报收1.27港元，下跌了77.84%，市值仅余11.07亿港元。不少微博用户躁动起来：“是王一博暴雷了吗？”“王一博要跟乐华解约了？”\n\n这些猜测有点捕风捉影，1月13日的“微博之夜”上，王一博其实出席了活动。两天前，洛阳文旅局也曾在线“摇人”，召唤王一博为家乡做了一波宣传。王一博的工作，看起来进展一切如常。\n1月16日傍晚，乐华娱乐就股价波动发布公告称：公司经营正常，董事会对本集团未来发展前景抱有充分信心；持有股份的董事均未直接或间接、自愿或非自愿地出售或以其他方式处置各自持有的公司权益。1月17日，乐华娱乐开盘一度上涨了18%，很快又回落至3.94%，但总算止住了跌势。\n但这并没有完全解答人们的疑问。短短一天之内，乐华娱乐究竟发生了什么？\n\n01、看谁跑得快？\n从收盘数据来看，经历了如此的极端波动，乐华娱乐的资金进出量级并不算大：当日成交1.06亿股，成交额1.59亿港元，换手率为12.18%，放在A股大盘里，这个换手比率只能算是较为活跃。\n在这宗暴跌“惨案”背后，市场普遍分析，主要是由于基石投资者解禁将至，资金大量出逃所导致。据Wind数据显示，1月19日乐华娱乐将有34926.90万股解禁，占总股本40.06%。\n招股书显示，乐华娱乐上市前的基石投资者，分别为儒意控股旗下的Sun Mass Energy公司、猫眼香港、丁世家（安踏体育执行董事兼副总裁）、好赞资产管理有限公司四家，合计认购了1990万美元。\n不过至少在上周以前，乐华娱乐的表现都一直较为平稳。1月3日，乐华娱乐曾在一日内上涨了32.17%，最终以7.93港元/股收盘。若按彼时的市值计算，基石投资可比对为数十亿港元的收益。\n一位长期关注媒体板块的券商经纪人对「市界」表示，大股东一般都会附带…",
+          "link": "https://www.aicaijing.com.cn/article/19170",
+          "publishedOn": "2024-01-17T05:44:08.000Z",
+          "wordCount": null,
+          "title": "王一博老板尝到了俞敏洪的苦",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
-          "author": "hello@smashingmagazine.com (Dan Shappir)",
-          "description": "Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.",
-          "link": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
-          "publishedOn": "2021-11-22T10:30:00.000Z",
-          "wordCount": 4743,
-          "title": "Improving The Performance Of Wix Websites (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/253b5a80-a208-4057-95b0-60762c922d07/improving-performance-wix-websites-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19169",
+          "author": "市界",
+          "description": "作者｜潮汐商业评论\n变化总在发生，你不去迎接进步的变化，就会等到退步的变化。\n—— 查理.芒格\n2023, 我们似乎总在不断告别。从“一生自由”的大家黄永玉到“智慧”投资家查理.芒格，再到写出《不能承受的生命之轻》的作家米兰.昆德拉。\n而当我们把视线转向商业世界，一些曾家喻户晓的品牌也正逐渐消失在大众视野。\n新消费热潮由虚入实，曾经红极一时的新中式糕点品牌虎头局和网红雪糕品牌钟薛高接连遭遇困境；中产阶级消费幻象褪去，诸多定位中高端的餐饮品牌及体验消费品牌接连退场；过往那些被年轻人疯狂追逐的快时尚品牌，也陆续被消费者“丢出”了衣橱……\n\n当然，除了告别，也有一众新生的力量正同步发生。无论是生成式AI的遍地开花，还是诸多出海品牌在海外市场的开疆拓土，都在用自己的行动昭示着坚守与创新的力量。\n从「告别」到「新生」，变化总在发生，也从另一个维度昭示着商业世界的多变与复杂。\n告别、迷茫、新生与温暖，「潮汐商业评论」希望用这几个关键词记录下2023这一年。\n01 迷茫\n这一年，我们经历了旅游行业的“报复性”反弹，“憋了”许久的国人选择在去年走出家门，看一看这个世界。但遗憾的是，消费却没有像出行热潮一般反弹如此之大，这种奇怪的“一上一下”，让深处商业世界的我们，充满了疑惑：消费者真的不爱消费了吗？\n从线下餐饮到各大电商平台，都将“卷”价格进行到底，似乎只有“低价”才能吸引消费者。\n\n无独有偶，去年初的Tesla降价，引发了一场关于汽车行业的“价格大战”，从传统汽车到新能源汽车品牌都被动地在这一年陷入这场“拉锯战”。\n迷茫之外，我们不免好奇：价格真的是一切吗？当然不，精打细算的消费者看起来追求的是“低价”，但抽丝剥茧之后，我们看到的却是一股追求“物有所值”的理性消费主义力量的崛起。\n就像年末手机行业的“百花齐放”，新技术的接连发布，让冷却许久的手机市场，焕发了新的生机。再比如竞争激烈的民营…",
+          "link": "https://www.aicaijing.com.cn/article/19169",
+          "publishedOn": "2024-01-17T02:47:46.000Z",
+          "wordCount": null,
+          "title": "商业世界，从2023到2024",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
-          "author": "hello@smashingmagazine.com (Sam Poder)",
-          "description": "Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.",
-          "link": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
-          "publishedOn": "2021-11-19T10:30:00.000Z",
-          "wordCount": 2192,
-          "title": "Next.js Wildcard Subdomains",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b24747b-6f11-4588-a119-16eaf38bc933/nextjs-wildcard-subdomains.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19168",
+          "author": "市界",
+          "description": "1月16日，领克汽车宣布2024款领克09 EM-P正式上市，总共推出4款车型，价格区间30.78万元—34.78万元。\n领克09 EM-P定位为中大型SUV，采用插电式混合动力形式，动力总成由Drive-E 2.0TD高功率发动机加三电机组成。WLTC纯电续航里程160km，最低电荷状态油耗7.5L/100km。\n相比老款，24款车型在动力方面有了提升，综合最大功率408kW，峰值扭矩844牛·米，传动系统匹配3挡DHT混动专用变速箱。官方零百加速仅需4.9秒，相比老款的5.9秒缩短了1秒钟。\n24款领克09 EM-P主要针对造型和配置等方面进行了升级，六座版提升较大。比如，二排采用双侧、双横移座椅设计，最大躺倒角度169°，单侧座椅可横移距离最大为62.5mm，让空间更灵活，三排座椅增加电动调节放倒功能。一、二、三排座椅可据需求实现联动放倒，形成通透空间。\n另外，副驾还配备了一体式四向电动腿托，还可选装多功能电子遮阳板，实现遮阳、化妆、娱乐功能三合一，支持副驾专属观影模式。同时官方还宣布，Flyme Link手机车机互联功能以及哨兵模式将于2024年二季度上车。魅族手机也将支持NFC钥匙功能，无需实体车钥匙。\n领克为所有大定用户提供限时领享礼，用户可根据需求领享直补权益1万元现金补贴，或领享金融权益5000元现金补贴加专属金融方案。叠加1万元领享补贴后，新09EM-P起售价将低至29.78万元。\n天眼查App显示，领克汽车销售有限公司，成立于2017年，是吉利控股集团、吉利汽车集团与沃尔沃汽车合资成立的新时代高端品牌。（文｜黄硕 编｜田晏林）",
+          "link": "https://www.aicaijing.com.cn/article/19168",
+          "publishedOn": "2024-01-16T11:07:43.000Z",
+          "wordCount": null,
+          "title": "24款领克09 EM-P上市，30.78万起售，拼性能拼操控",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.",
-          "link": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
-          "publishedOn": "2021-11-17T16:00:00.000Z",
-          "wordCount": 3472,
-          "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b424cd2e-1e44-4ca2-8506-4e45a5bdb570/guide-modern-css-colors.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19167",
+          "author": "市界",
+          "description": "01、只要你想，价格皆可谈\n“奔驰C级真的降了11万，成功抄底！”2023年12月底，王薇总共用了不到30万元就成了“尊贵的梅德赛斯车主”。\n这辆厂家指导价为35.52万元的2024款奔驰C 260L运动版，被王薇砍下11万元的现金优惠，“算上购置税、保险和分期贷款的利息，实际落地价格29万出头，比两个月前又降了3万多。”\n王薇考虑换车很久了，2023年一整年，她都在关注奔驰C级的价格变化。\n2023年年初，车市刚刚掀起价格战，市场曾一度传出“豪车价格崩盘”的传闻。“可那时奔驰C级也要33万左右，而且网友都说奔驰号称‘不坑穷人’，但凡加点选装，就上35万了。”思虑再三，她打算再等等。\n到了11月初，奔驰C 260L运动版的落地价还在33万元左右，和年中价格基本一样。王薇有些动摇。现在想想幸亏当时忍住了。\n2023年12月，各家车企为了冲刺年底销量，都使出浑身解数。王薇本以为价格战不太会影响BBA的燃油车，但没想到，一直表示不会参与价格战的奔驰，对着C级开刀了。\n\n“（2023年）3月上旬，奔驰C级的现金优惠在6万元左右。”北京一位奔驰经销商告诉「市界」，当时网传的“11万巨额优惠”只是噱头，消费者需要同时满足二手车置换、分期贷款、定向补贴政策，并且店内购买保险、装潢、维修保养套餐等才“有可能”拿到这个优惠力度。\n但等王薇咨询购车优惠时，经销商只有一个分期付款的条件。\n进入2024年，奔驰A级、C级、GLA、GLB这四个车型，经销商更是拿出了最大现金优惠幅度。近日，「市界」走访了北京地区的几家奔驰4S店发现，虽然每家给出的具体优惠略有不同，但降幅基本都能达到10万元。\n“刚刚有客户问我：月底有优惠吗？我笑了，这是月底吗？这是年底啊！只要你想，一切皆可谈！”一位汽车销售在朋友圈写道。\n在“以价换量”的大环境下，奔驰也没能独善其身。\n看着小红书上频频出现“挑战奔驰C最低价”“奔驰…",
+          "link": "https://www.aicaijing.com.cn/article/19167",
+          "publishedOn": "2024-01-16T11:03:41.000Z",
+          "wordCount": null,
+          "title": "最畅销的奔驰不到30万了",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/touch-design-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting in early January.",
-          "link": "https://smashingmagazine.com/2021/11/touch-design-pre-release/",
-          "publishedOn": "2021-11-16T16:00:00.000Z",
-          "wordCount": 2170,
-          "title": "Meet Touch Design For Mobile Interfaces, A New Smashing Book By Steven Hoober",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/touch-design-for-mobile-interfaces-header.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19166",
+          "author": "市界",
+          "description": "01、只用了3个月敲定合作\n1月16日，重庆长安汽车股份有限公司（下称“长安汽车”）在重庆“大本营”召开了2024长安汽车全球伙伴大会。会上，长安汽车党委书记、董事长朱华荣不仅总结了2023年，展望了2024年，还首次对外披露了投资华为车BU的细节。\n朱华荣表示，新公司的名称暂定为“newcool”，并且“华为承诺不从事整车业务，不从事新公司里面的业务。”\n谈到长安汽车与华为汽车业务之间的关系，还要回到2023年11月26日。\n当天，长安汽车发布公告称，与华为于11月25日在深圳签署了《投资合作备忘录》。“经协商，华为拟成立一家新公司，聚焦智能网联汽车的智能驾驶系统及增量部件的研发、生产、销售和服务。”\n据长安汽车透露，华为作为甲方设立新公司，长安汽车作为乙方，其与关联方拟出资获取新公司股权，比例不超过40%，具体股权比例、出资金额及期限由双方另行商议。\n彼时，外界将这一消息解读为车BU要从华为体系剥离。受此影响，长安汽车的股价出现了一字涨停。\n据悉，长安与华为成立的这家合资公司，主要从事汽车智能系统及部件解决方案研发、设计、生产、销售和服务，业务范围包括汽车智能驾驶解决方案、汽车智能座舱、智能汽车数字平台、智能车云、AR-HUD与智能车灯等七大领域。\n在1月16日的年度大会上，朱华荣首次披露了双方合作的细节。\n“和华为共同打造的新公司的一些情况相信很多朋友都很关心。”据朱华荣透露，2023年8月，华为与长安汽车成立了一个工作团队，他也与华为轮值董事长徐直军商讨华为车BU未来的发展方向。当时华为还问长安汽车有没有兴趣共同打造一个立足整个行业、贡献全球汽车智能化产业的平台。\n基于双方共同的价值观和相近的文化，朱华荣和徐直军一拍即合，“我们都希望通过本轮的合作，助力中国汽车的智能化产业崛起。”\n不过，最早双方商量的是，等合资公司成立后再对外发布消息。但朱华荣认为风险太大，毕竟长…",
+          "link": "https://www.aicaijing.com.cn/article/19166",
+          "publishedOn": "2024-01-16T10:53:31.000Z",
+          "wordCount": null,
+          "title": "长安汽车董事长：与华为谈合作，仅用了3个月",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
-          "author": "hello@smashingmagazine.com (Louis Lazaris)",
-          "description": "What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.",
-          "link": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
-          "publishedOn": "2021-11-15T13:00:00.000Z",
-          "wordCount": 2123,
-          "title": "Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2d3081a-5a36-4763-9b94-13bf7d1cb5d6/powerful-terminal-commandline-tools-modern-web-development.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19165",
+          "author": "市界",
+          "description": "在国内竞争激烈的“百模大战”中，智谱AI被业界寄予厚望：这家成立于2019年的公司，是国内最早研发大模型的企业之一，由清华大学知识工程实验室（KEG）技术成果转化而来；在今年10月底，智谱AI官方宣布，年内已经累计完成25亿元的融资。业内也有分析称，其估值已超过150亿元。\n2024年开年，智谱AI公布了最新动态。1月16日的首届技术开放日上，智谱AI团队展示了其三年多来积累的技术成果，并发布了新一代基座大模型GLM-4。智谱AI的CEO张鹏表示，新一代国产全自研的基座大模型GLM-4，中文能力已可比肩GPT-4。他还称，2024年将是AGI（通用人工智能）元年。\n\n（图源/智谱AI）\n01 GLM-4模型全家桶来了\n还记得OpenAI在去年的首届开发者大会吧？让所有的AI创业者几乎都夜不能寐——除了GPT-4性能升级，包括128K的上下文长度、更强的控制能力，模型提升多模态能力、知识升级等之外，用户可以打造专属于自己的GPTs。这场大会上提到的GPT商店，也在2024年实现——今年1月11日凌晨，OpenAI在其官网发布公告，正式上线了业界期待已久的GPT store。\n而在智谱AI的开放日上，我们也看到了国内企业追赶OpenAI的不懈努力。\n在大语言模型预训练框架中，存在不同的技术路径。像OpenAI选择的是GPT，而智谱AI则自研了GLM预训练架构。2019年成立后，公司就在做相关的算法研究；2022年8月，智谱AI的双语千亿级预训练模型GLM-130B正式上线。在当年的斯坦福大学大模型中心对全球主流大模型进行全方位评测中，GLM-130B成为亚洲唯一入选模型，并在准确性等部分标准方面被认为，已与GPT-3持平。\n据资料显示，目前智谱是唯一全内资、国产全自研的大模型企业。CEO张鹏曾对市界表示，这对智谱AI的商业化也是有利的。毕竟，安全性已经成为大模型领域最受关注的问…",
+          "link": "https://www.aicaijing.com.cn/article/19165",
+          "publishedOn": "2024-01-16T10:29:27.000Z",
+          "wordCount": null,
+          "title": "百亿估值智谱AI发布新一代大模型，“国产GPTs”也来了",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/useful-react-hooks/",
-          "author": "hello@smashingmagazine.com (Ifeanyi Dike)",
-          "description": "The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.",
-          "link": "https://smashingmagazine.com/2021/11/useful-react-hooks/",
-          "publishedOn": "2021-11-12T10:00:00.000Z",
-          "wordCount": 10255,
-          "title": "Useful React Hooks That You Can Use In Your Projects",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ad5f8d5b-6da6-4441-a6f7-466c79e7fb0d/useful-react-hooks.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19164",
+          "author": "市界",
+          "description": "华为与奇瑞汽车携手打造的高端新能源汽车品牌——智界，首款车智界S7因迟迟无法交付，惹恼了准车主。\n1月15日，华为鸿蒙智行发布公告称，由于智界S7车型积压了大量订单导致交付延期，对未能按时提车的车主表示歉意并推出“提车关爱补贴计划”给予补偿。\n该补贴计划针对2023年11月28日—2024年1月15日（含）前完成大定支付的智界S7用户。\n具体来看，下定智界S7 Max/Max RS非白沙杏内饰的用户，等待时间为6周，超出的话将按200元/天进行补贴，10000元封顶。下定智界S7 Max/Max RS白沙杏内饰，以及智界S7 Max+的用户，要等到2024年2月29日，超出后自3月1日（含）起，按200元/天进行补贴，10000元封顶。\n智界汽车的公众号认证主体是华为终端有限公司。天眼查App显示，华为终端有限公司成立于2012年11月，注册资本60000万元，华为投资控股有限公司间接持有全部股份。（文｜黄硕 编｜田晏林）",
+          "link": "https://www.aicaijing.com.cn/article/19164",
+          "publishedOn": "2024-01-16T10:18:11.000Z",
+          "wordCount": null,
+          "title": "智界S7爆单交付延迟，补偿车主最高1万",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
-          "author": "hello@smashingmagazine.com (Adam Fard)",
-          "description": "Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.",
-          "link": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
-          "publishedOn": "2021-11-11T14:00:00.000Z",
-          "wordCount": 4289,
-          "title": "From Good To Great In Dashboard Design: Research, Decluttering And Data Viz",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/835f0cba-e214-437a-a025-e69ba7691997/dashboard-design-research-decluttering-data-viz.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19163",
+          "author": "市界",
+          "description": "刚经历一波连涨，老板娘就要套现3亿元，让锂电概念股金龙羽成为热议话题。\n1月16日晚间，金龙羽发布公告称，因个人资金需求，持股5.78%的第二大股东吴玉花，计划在15个交易日后的三个月内，以集中竞价交易方式和大宗交易方式，合计减持公司不超过1298.7万股股份，约占总股本的3%。\n截至当日收盘，金龙羽微跌3.05%，报22.58元/股，总市值97.75亿元，照此计算，吴玉花可套现近3亿元。\n实际上，吴玉花的身份，除金龙羽第二大股东外，还是实控人郑有水的妻子。而截至2023年第三季度末，郑有水直接持有金龙羽高达56.83%的股份，同样按最新收盘价计算，其持股价值可达55亿元。\n值得一提的是，就在吴玉花宣布套现前，金龙羽刚经历一波连涨，从1月4日的14.67元/股算起，到1月15日收盘的23.29元/股，7个交易日大涨59%，而金龙羽甚至还在1月12日，发布过一条股票交易异常波动的公告，提醒投资者注意二级市场交易风险，理性决策、审慎投资，但依旧没有阻挡住投资者的热情。\n其实，1月16日收盘前，金龙羽还差点再度涨停，但由于这份减持公告的发布，才最终收绿。不过，投资者应该不会想到，金龙羽会以这种方式，来“阻止”投资者的热情。\n\n天眼查APP显示，金龙羽集团股份有限公司成立于1996年，主要从事电线电缆的研生产、销售等业务，似乎与锂电概念没有关系。其实，这主要是由于2021年8月，金龙羽公开宣布，将涉猎固态电池及其关键材料领域，并在五年内投入不超过3亿元，与专家李新禄共同合作研究，因此成为锂电概念股。\n而当时，金龙羽还成功引起了深交所的注意，要求金龙羽说明建立固态电池相关研发中心、小试或中试生产线试制产品的实际进度安排，研究开发成果可产业化以及核算盈利的预计时间等，以及近期接待机构和个人投资者调研的情况，是否存在误导投资者、“蹭热点”炒作股价等情形。\n不过，从目前的情况来看，金龙羽想要在锂电领域实现盈利，还言之尚早。可金龙羽的营收数据，却已经出现了问题，今年前三季度，金龙羽延续上一年的颓势表现，再度实现营收下滑，同比下降9.72%，仅为27.81亿元，而净利润也在小幅下滑后，为1.75亿元。\n（作者丨市界 冯晨晨，编辑丨刘肖迎）",
+          "link": "https://www.aicaijing.com.cn/article/19163",
+          "publishedOn": "2024-01-16T10:13:11.000Z",
+          "wordCount": null,
+          "title": "股民懵了！老板娘套现3亿，打断股价上涨潮",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "Internationalized routing is not exactly a new feature on Next.js. In this article, we are not only checking what we get from this feature, but also how to leverage such functionalities to achieve the best user experience and a smooth developer experience as well.",
-          "link": "https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/",
-          "publishedOn": "2021-11-09T13:00:00.000Z",
-          "wordCount": 1902,
-          "title": "Localizing Your Next.js App",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/12e7620f-0e7b-4b95-a1b6-cd2f25ccac52/localizing-your-nextjs-app.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19162",
+          "author": "市界",
+          "description": "1月16日，天眼查App显示，鞋履品牌Clarks关联公司克履仕国际贸易（上海）有限公司近日因生产、销售以不合格产品冒充合格产品，被上海市市场监督管理局罚款41.4万余元、没收违法所得4.9万余元。\n处罚事由显示，当事人销售的两款休闲鞋经抽样送检，耐折性能项目均不符合标准要求，均被判定为不合格产品。上述产品由当事人进口，并在国内销售，共计销售111双。\n据了解，Clarks是全球知名鞋履品牌，1825年创立于英格兰西南部的萨默赛特郡，是全英最大的男鞋、女鞋和童鞋品牌之一。作为欧洲顶级皮鞋的代名词，Clarks在科技创新方面有相关经验，在Clarks近200年的历史中，始终坚持传承工艺，结合多项专利科技，致力于提供舒适的鞋履穿着体验。2022年6月，李宁第一大股东非凡中国再度出手收购了英国鞋履品牌Clarks。\n\n在天猫旗舰店上，一双Clarks的鞋售价在千元左右，最贵的一双男士复古鞋卖2399元，最低的一款男生休闲鞋售价500多元。从销量上看，最畅销的一款男士商务皮鞋月销量为3000+。\n财报数据显示，2022年Clarks营业额同比增长6.3%至9.78亿英镑，息税前利润从早些时候的5960万英镑增加到7480万英镑，净利润则下跌19%至4490万英镑。（作者 | 李丹 编辑 | 陈芳）",
+          "link": "https://www.aicaijing.com.cn/article/19162",
+          "publishedOn": "2024-01-16T09:48:30.000Z",
+          "wordCount": null,
+          "title": "Clarks所售进口休闲鞋不合格被罚，共罚没46.3万元",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "In this article, Leonardo Losoviz explains how Cloudinary’s integration can be used with WordPress to produce and deliver optimal digital experiences.",
-          "link": "https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/",
-          "publishedOn": "2021-11-09T09:30:00.000Z",
-          "wordCount": 2425,
-          "title": "Automatically Transforming And Optimizing Images And Videos On Your WordPress Website",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8aaa9d52-375d-4e64-bdaa-151ef40a3f3c/transforming-optimizing-images-videos-wordpress-website.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19161",
+          "author": "市界",
+          "description": "1月15日晚间，北汽蓝谷新能源科技股份有限公司（以下简称“北汽蓝谷”）发布了2023年年度业绩预亏公告。公告显示，公司预计2023年度归属于上市股东的净利润为-57亿到-52亿元，预计归属于上市股东的扣除非经常性损益后的净利润为-62亿元到-57亿元。\n受该消息的影响，资本市场上，1月16日，北汽蓝谷股价下跌2.89%，最新市值为299.85亿元。与2021年5月份相比，市值已经在三年内蒸发超380亿元。\n北汽蓝谷将亏损的原因主要归咎于以下两点：一是，新能源汽车市场竞争愈发激烈，北汽蓝谷开拓市场时，为了锐化品牌形象，提升运营效率，在技术研发、品牌渠道建设等核心能力上持续投入，对公司短期业绩产生一定影响；二是，公司产品销量仍处于快速提升期，规模效应暂未显现，导致 产品成本阶段性偏高。\n北汽蓝谷预计，随着后期新产品的陆续上市，产品结构逐渐丰富， 渠道建设进一步完善，公司产品销量及盈利能力有望得到持续改善。\n天眼查App显示，北汽蓝谷成立于1992年，是北京汽车集团成员。北京汽车集团有限公司为控股股东，持有股份占总股本比例为22.87%，北京汽车股份有限公司持有股份占总股本比例为10.99%。前不久，北汽蓝谷公布了销量数据，2023年12月卖出了20815台车，2023全年累计销量为92172台，同比增长83.69%。（文|杨俏 编辑| 田晏林）",
+          "link": "https://www.aicaijing.com.cn/article/19161",
+          "publishedOn": "2024-01-16T09:29:46.000Z",
+          "wordCount": null,
+          "title": "北汽蓝谷2023年业绩最高预亏损62亿",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/",
-          "author": "hello@smashingmagazine.com (Ilya Grigorik)",
-          "description": "A great commerce experience is not a Lighthouse score or a set of Core Web Vitals figures (although both are important inputs), but it’s also a trilemma that carefully balances competing needs of delivering a great customer experience, dynamic storefront capabilities and long-term business objectives.",
-          "link": "https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/",
-          "publishedOn": "2021-11-08T14:30:00.000Z",
-          "wordCount": 1527,
-          "title": "Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ee33395f-684a-40e5-bf72-56d9e9e4d975/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19160",
+          "author": "市界",
+          "description": "1月16日，奥迪中国官方宣布，自2024年4月1日起，Johannes Roscheck（约翰内斯-罗切克）将出任奥迪中国总裁，将接替现任奥迪中国总裁温泽岳，统筹管理奥迪在中国市场相关业务。按照规划，温泽岳在北京任职期满2年后将回到德国大众汽车集团总部。\n即将掌管奥迪中国的约翰内斯-罗切克，是一名拥有经济学博士学位的机械工程师，在汽车行业拥有超25年的经验。他目前在英戈尔施塔特担任奥迪汽车股份公司企业控制与财务负责人。\n2017年到2022年，约翰内斯-罗切克作为奥迪巴西首席执行官负责奥迪在巴西的业务运营；此外，他还曾担任大众集团在匈牙利、美国和德国的管理职位。\n而温泽岳自2022年1月起，负责管理奥迪在中国的业务。此前，他曾在梅赛德斯-奔驰公司和戴姆勒-克莱斯勒公司担任多个生产管理职务。2004年，温泽岳加入大众汽车集团，并随后加入到了奥迪汽车股份公司，在大众集团有着超20年的经验。\n2023年，奥迪在中国市场累计交付了72.9万辆车，同比增长13.5%。其中，奥迪纯电动e-tron系列车型交付量达到了3.1万辆。未来三年，奥迪将在全球推出 20 款新车型，包括一半的新车型为纯电动车型。\n天眼查App显示，奥迪中国所属公司为奥迪（中国）企业管理有限公司，成立于2009年，是奥迪汽车股份旗下的全资子公司。奥迪中国主要是协调奥迪汽车股份公司、一汽集团和一汽-大众合资公司，以及与上汽集团和上汽大众合资公司之间的业务合作事宜。（文|杨俏 编辑|田晏林）\n\n（图/视觉中国）",
+          "link": "https://www.aicaijing.com.cn/article/19160",
+          "publishedOn": "2024-01-16T09:15:20.000Z",
+          "wordCount": null,
+          "title": "总裁上任仅两年，奥迪中国换帅",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "Concept testing ideas before moving into a detailed design is good UX practice. In this article, Victor Yocco presents details on how and when to engage in concept testing, as well as case studies providing details on the insights gained in two very different settings.",
-          "link": "https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/",
-          "publishedOn": "2021-11-05T11:00:00.000Z",
-          "wordCount": 6182,
-          "title": "The Value Of Concept Testing As Part Of Product Design",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ca39dbc3-101c-4973-9dce-debb1ab283ff/concept-testing-part-of-product-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19159",
+          "author": "市界",
+          "description": "1月16日，港股上市公司百果园集团开盘后股价大幅跳水，截至收盘，每股报收4.18港元，跌幅超30%，总市值为66.4亿港元，一日蒸发28.9亿港元。对于股价大跌一事，百果园相关人士回复媒体称，股价波动属资本市场正常现象，目前公司经营一切正常。\n\n拉长时间轴看，去年年初登陆港交所的百果园集团股价已经缩水了不少。2023年1月16日，百果园以5.6港元的发行价上市，当天高开低走每股以5.91港元收盘，不到一个月就跌破了发行价。为了扭转股价颓势，1月11日百果园集团曾发布公告称，拟最多斥资6.34亿元回购不超过1.18亿股H股，相当于股东大会召开时已发行H股总数的10%。\n天眼查App显示，百果园公司全名为深圳百果园实业（集团）股份有限公司，成立于2001年，法定代表人为余惠勇，注册资本为157894万元。\n据了解，百果园是目前中国最大的水果零售经营商，截至2023年6月30日，公司线下门店近6000家。1月5日，在百果园黄金十年战略发布会上，百果园集团创始人、董事长余惠勇表示，未来十年，公司总目标是GMV（总商品交易额）达到千亿元，市场占有率超过10%。在To C零售端，公司的门店数量超万家，终端零售额超过500亿元。\n财报数据显示，2023年上半年百果园集团营收为62.94亿元，同比增长6.42%；归母净利润为2.61亿元，同比增长34.12%。2022年全年百果园集团营收为113.12亿元，同比增长9.94%；归母净利润为3.23亿元，同比增长40.35%。（作者 | 张继康 编辑 | 陈芳）",
+          "link": "https://www.aicaijing.com.cn/article/19159",
+          "publishedOn": "2024-01-16T09:08:15.000Z",
+          "wordCount": null,
+          "title": "百果园股价大跌，市值一日蒸发28亿，公司回应经营一切正常",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about Astro. Will this modern static site builder launch you into the stratosphere? Drew McLellan talks to developer Matthew Phillips to find out.",
-          "link": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/",
-          "publishedOn": "2021-11-04T18:00:00.000Z",
-          "wordCount": 5848,
-          "title": "Smashing Podcast Episode 43 With Matthew Phillips: What Is Astro?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/475de692-46fc-4058-af10-3736770698d5/smashing-podcast-episode-43.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19158",
+          "author": "市界",
+          "description": "1月16日，俞敏洪再度登上热搜，而原因是选择“给年轻人一个机会”。\n原来是有网友发现，曾因怒怼粉丝被停播3个月的东方甄选旗下主播天权，仅1一个月后，就被宣传已经准备复播。\n面对质疑，俞敏洪通过一条视频回应，“年轻人犯了错误，应该给他们及时改正的机会，决定把对天权的3个月停播变成1个月，现在刚好差不多一个月过去了”。\n对于东方甄选是否会就此失去诚信的质疑，俞敏洪给出的解释是，“诚信可能不要用这种方式理解，一个允许年轻人犯错误、及时纠正错误，并且还愿意给年轻人机会的社会，才是一个宽容美好的社会，也还请大家多多包容我们”。\n此言一出，无数网友纷纷点赞，也对俞敏洪处理舆论压力的方式，给予好评。不过，也有不少网友依旧不买账，“老俞，打死也把三个月扛过去啊，现在是损害自己的信誉”、“儿戏了，最主要是当初发了公告，那要再发一条公告才可以改变处罚，上市公司就不能谨慎点吗”。\n\n其实，与董宇辉相似，天权也是东方甄选直播间的一位销售主播，而事件正是起源于去年12月15日，东方甄选因“小作文风波”愈演愈烈，直播压力骤增，而天权最终情绪失控，不但模仿孙东旭摔手机，还嘲讽直播间观众买不起蛋黄酥，甚至喊话自己不怕事大，从而引发网友不满。\n不过，就在事发后的第二天，东方甄选便发布致歉声明，并宣布将天权停播三个月，而天权也进行了公开致歉。\n\n东方甄选是一家港股上市公司，目前市值为268亿港元，而俞敏洪正是该公司的主席。天眼查APP显示，俞敏洪名下共有97家公司，其中有66家处于存续状态，且不乏注册资本千万级别的企业，除多数与新东方有关外，还与不少大佬存在交集，比如是汪超涌控制的北京信中利投资股份有限公司的股东，还与泰有基金创始合伙人余彬燕以及清华大学教育基金会，一同参股私募基金——杭州泰之有创业投资合伙企业（有限合伙）等。\n（作者丨市界 冯晨晨， 编辑丨刘肖迎）",
+          "link": "https://www.aicaijing.com.cn/article/19158",
+          "publishedOn": "2024-01-16T08:51:26.000Z",
+          "wordCount": null,
+          "title": "停播仨月变一个月！俞敏洪“给年轻人机会”惹争议",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
-          "author": "hello@smashingmagazine.com (David Atanda)",
-          "description": "Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.",
-          "link": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
-          "publishedOn": "2021-11-04T11:30:00.000Z",
-          "wordCount": 3382,
-          "title": "GraphQL On The Front-End (React And Apollo)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb584488-c16f-4409-a992-993ce92d4b51/graphql-frontend-react-apollo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.aicaijing.com.cn/article/19157",
+          "author": "市界",
+          "description": "01、“一场诈骗，三个季度白干”\n谁能想到，昔日A股“明星药企”海普瑞，在沉寂多年后，会因“被骗近1亿元”这种戏剧性事件而登上热搜，并创下A股史上最大电信诈骗金额的纪录。\n1月14日晚间，海普瑞发布公告称，全资子公司Techdow Pharma Italy S.R.L.（天道意大利）近期遭遇犯罪团伙电信诈骗，涉案金额1170余万欧元，约合9100万人民币。\n虽然海普瑞表示，已第一时间向当地警方报案，目前正开展调查工作，且也已派人前往处理，但由于无法确定结果，或对2023年度财务报表造成潜在影响。深圳证监局也在1月15日晚间，发布对这件事的关注函，要求海普瑞采取一切必要法律手段追回有关资金，并认真反思与总结。\n事件一出，立即引发热议，但在同情之余更多表达了“不解”，并将其推上当日热搜，“前有獐子岛扇贝跑路，后有正邦科技饿死猪，现在又来个被电诈的”、“事发海外的境外电诈，buff拉满，追回估计难了”、“如果是真的，说明公司管理水平太差，防范意识太差，不能投。如果是假的，那就更不能投了”。\n对此，「市界」联系海普瑞，试图了解事件更为详细的因果，以及无法追回相关损失后如何处理等信息，但截至发稿，并未得到回复。不过，据《每日经济新闻》报道，海普瑞董秘钱风奇表示，“诈骗集团作案手法比较高明、蓄谋已久，公司也确实被骗了”。\n其实，对于目前的海普瑞而言，这笔资金并不是一个小数目。\n海普瑞是一家主要从事肝素产业链布局的企业，而肝素是一种从猪小肠中提取加工的抗凝血药物，不仅可以此为基础生产出肝素原料药，还能进一步生成肝素钠制剂及注射液等产品，并主要用于抗凝血、抗血栓等方面。曾有人调侃道，巅峰时期的海普瑞，“相当于用了当时全国1/3的猪小肠”。\n不过，2023年前三季度，海普瑞迎来营收与利润的双下滑，其中营收同比下滑24.69%，为40.63亿元，净利润也在下降78%后，只剩1.42亿元，而扣非…",
+          "link": "https://www.aicaijing.com.cn/article/19157",
+          "publishedOn": "2024-01-16T07:38:50.000Z",
+          "wordCount": null,
+          "title": "电诈被骗上热搜，四川老板身家曾超500亿",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
-          "author": "hello@smashingmagazine.com (Ikeh Akinyemi)",
-          "description": "Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.",
-          "link": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
-          "publishedOn": "2021-11-03T11:30:00.000Z",
-          "wordCount": 3605,
-          "title": "A Deep Dive Into Serverless UI With TypeScript",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aff46dfe-164d-4bf7-8e14-057470001b41/deep-dive-into-serverless-ui-typescript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        }
-      ]
-    },
-    {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
-      "articles": [
-        {
-          "id": "61a5f9680c0c7407b2b3e607",
-          "author": null,
-          "description": "In general, a headphone jack and a pair of headphones improve the sound from your PC. You'll be able to hear things more clearly, without disturbing other around you.  But sometimes, setting them up is difficult. Or they might stop working entirely. This could be due to outdated drivers, or",
-          "link": "https://www.freecodecamp.org/news/headphone-jack-not-working-in-windows-10-how-to-fix-headphones-on-pc/",
-          "publishedOn": "2021-12-01T09:49:48.000Z",
-          "wordCount": 743,
-          "title": "Headphone Jack Not Working in Windows 10 - How to Fix Headphones on PC"
+          "id": "https://www.aicaijing.com.cn/article/19156",
+          "author": "市界",
+          "description": "1月15日，“苹果官网罕见大降价”登上了微博热搜第一，借着春节促销的由头，苹果官网针对iPhone手机、Mac笔记本电脑、iPad平板电脑、AirPods耳机等产品开启了一轮官方降价，降价幅度从50元至800元不等。\n\n▲（图源/微博）\n本次降幅虽不是历史之最，却能登上热搜第一，在于官网作为苹果官方直营渠道代表了苹果的态度。过去官网历来是价格最“坚挺”的渠道，除了历年新品迭代以外很少降价，一直被视为苹果的价格锚点。官网价“破发”，意味着渠道价格的进一步下跌。\n就在这次苹果官网调价以后，「市界」查询各大电商平台发现，截至发稿，iPhone15标准版起售价已经下探至4598元，iPhone15 Plus下探至5448元，iPhone 15 Pro下探至6498元，iPhone 15 Pro Max下探至8228元。\n\n▲（图/淘宝、拼多多截图）\n而在线下渠道，「市界」近日走访发现，有部分经销商打出了iPhone15 Pro Max“官网直降1600元”的优惠活动，以旧换新还能额外补贴最高600元。\n早在去年双十一期间，苹果“大降价”的趋势就已经非常明朗，当时各大电商平台iPhone15系列最高降价幅度超过了2000元，是近年来降价最早的一批新款iPhone。\nCanalys高级分析师朱嘉弢对「市界」表示，相比往年，2023年苹果的促销确实要频繁很多，对于渠道的控价也有所放开，所以在拼多多、抖音等新兴渠道多次出现了击穿历史低价的“破价”现象。\n频频降价促销，是苹果销量不行了吗？但就在不久前，据业内权威数据显示，截至2023年12月10日，苹果拿下了去年中国智能手机销量第一，出货量高达 4450.5万台。\n在各大手机厂商中，苹果手机一直以贵闻名，平均售价远高其他厂商，去年销量也登顶中国第一，为何却在最近一段时间急于降价？\n01、iPhone价格撑不住了？\n苹果的这次降价，来得很突然…",
+          "link": "https://www.aicaijing.com.cn/article/19156",
+          "publishedOn": "2024-01-16T07:19:51.000Z",
+          "wordCount": null,
+          "title": "iPhone跌破底价，苹果真急了",
+          "imageUrl": null
         },
         {
-          "id": "61783ffa33422e07df364d2c",
-          "author": null,
-          "description": "For six years in a row, Rust has been voted the most loved programming language by Stack Overflow. So if you're ready to learn this popular programming language, this course will introduce you to Rust so you can start using it in your projects. You will be working entirely within",
-          "link": "https://www.freecodecamp.org/news/rust-in-replit/",
-          "publishedOn": "2021-11-30T14:35:18.000Z",
-          "wordCount": 5418,
-          "title": "Learn Rust Programming Course – Interactive Rust Language Tutorial on Repl.it"
+          "id": "https://www.aicaijing.com.cn/article/19155",
+          "author": "市界",
+          "description": "1月16日，“蜜雪冰城回应放弃瓶装水业务”的话题冲上了微博热搜第一，有网友后知后觉地发现，自己看到热搜才知道蜜雪冰城卖过瓶装水，有人普及知识称就是今麦郎的水贴了个自己的牌子，还有人建议“雪王”趁机推新品。\n\n据南都报道，近日其在走访广州多家蜜雪冰城门店发现，其瓶装水和瓶装饮料下架了，有苏州加盟商透露，瓶装水曾在2022年10月在其门店上架，不过目前门店已无相关产品售卖。蜜雪冰城电商平台的官方渠道同样没有销售瓶装饮料的相关产品。在电商平台上，仍有数家第三方店铺在售卖蜜雪冰城的瓶装水，不过月销量均不超过3位数。\n针对此事，蜜雪冰城负责瓶装业务的相关工作人员回应称，目前产品调整，蜜雪冰城的瓶装饮料项目暂停代理。对此，有专家分析称，蜜雪冰城卖瓶装水并无竞争优势。\n天眼查App显示，蜜雪冰城股份有限公司曾申请多个瓶子、瓶贴、箱子等瓶装饮料相关外观专利，涉及“雪王爱喝水”“大雪王”“雪王霸汽”等产品，当前专利状态均为已获授权。\n\n招股书显示，截至2023年9月30日，蜜雪冰城门店总数超过36000家，覆盖全国及海外11个国家。仅前三季度，蜜雪冰城就卖出58亿杯，平均一天能卖2100万杯。这也使得2023年前9个月蜜雪冰城营收高达153.93亿元，同比增长46%；净利润24.53亿元，比2022年全年还要高，同比增长51.1%。拆解蜜雪冰城的营收构成发现，其主要向加盟商出售糖、奶、茶等食材和杯子、吸管等包材。（作者 | 李丹 编辑 | 陈芳）",
+          "link": "https://www.aicaijing.com.cn/article/19155",
+          "publishedOn": "2024-01-16T04:35:06.000Z",
+          "wordCount": null,
+          "title": "蜜雪冰城不卖瓶装水了，回应称因产品调整，去年前三季度狂赚24亿",
+          "imageUrl": null
         },
         {
-          "id": "61a0f98125888a07c3e1bfbc",
-          "author": null,
-          "description": "Everyone should learn three skills that can help them make money in their life. This means that you won't have to rely on one skill to make money, and it gives you a chance to make a side income, too. The value you can add at your job or to",
-          "link": "https://www.freecodecamp.org/news/5-valuable-skills-developers-should-learn/",
-          "publishedOn": "2021-11-30T01:12:15.000Z",
-          "wordCount": 1098,
-          "title": "5 Valuable Skills Developers Should Learn in 2022"
+          "id": "https://www.aicaijing.com.cn/article/19154",
+          "author": "市界",
+          "description": "1月16日，“张雪峰公司再成立2家科技公司”的话题冲上了微博热搜。天眼查App显示，近日，成都研途蓉城科技有限公司、西安研之途科技有限公司接连成立，法定代表人分别为康立、吴志华，注册资本均为50万人民币，经营范围均含教育咨询服务、招生辅助服务等。\n股东信息显示，两家公司均由苏州研途教育科技有限公司全资持股，张子彪（张雪峰）担任后者监事并持股约10.86%。公开信息显示，张雪峰为苏州研途教育科技有限公司副总裁、联合创始人。\n对于张雪峰成立科技公司的事情，网友们炸开了锅，有人质疑真是什么人都能开科技公司了，有人赞同认为这是有前途的事，还有人后知后觉地发现原来张雪峰本名叫张子彪。\n据了解，网红考研老师张雪峰是黑龙江齐齐哈尔人，1984年出生，曾就读于郑州大学给排水工程专业，2016年6月凭借《七分钟解读34所985高校》走红网络。天眼查App显示，他是苏州峰学蔚来教育科技有限公司的法定代表人，公司成立于2021年，注册资本1000万元，是一家以从事教育为主的企业。\n\n最近几年，张雪峰频繁因出格言论引发争议，如2023年6月因建议年轻人不要选新闻传播专业而被批；2023年12月因在直播中表示文科都是服务业，并强调服务业总结起来就一个字“舔”，就是“爷我给你笑一个”，引发巨大争议，最终不得不发文道歉。（作者 | 张继康 编辑 | 陈芳）",
+          "link": "https://www.aicaijing.com.cn/article/19154",
+          "publishedOn": "2024-01-16T03:53:43.000Z",
+          "wordCount": null,
+          "title": "张雪峰成立2家科技公司上热搜，此前多次因出格言论惹争议",
+          "imageUrl": null
         },
         {
-          "id": "61a39f3025888a07c3e1cf08",
-          "author": null,
-          "description": "How you train for your career is one of the most consequential decisions you'll ever make. But it's hard to narrow down your options for a career in software development or IT. Medicine is easy: pick a medical school and apply. But programming?  Will what you learn in a four",
-          "link": "https://www.freecodecamp.org/news/types-of-software-development-training/",
-          "publishedOn": "2021-11-29T21:06:01.000Z",
-          "wordCount": 2285,
-          "title": "Types of Software Development Training – A Data Analysis of IT Career Training Tool Efficacy"
+          "id": "https://www.aicaijing.com.cn/article/19153",
+          "author": "市界",
+          "description": "1月16日开盘，中兴商业逼近跌停，截至上午10点46每股报9.95元，跌9.95%，总市值为41.36亿元，汉商集团、益民集团、深赛格等零售股跟跌。\n中兴商业的股价异动是从2024年开年开始的，1月8日到1月11日收获四连涨，股价每股最高触及12.25元，创了近7年以来的新高，总市值高达50亿元。不过，1月12日，中兴商业开板大跌，1月15日以涨6.85%收盘，1月16日逼近跌停，但仍处于高位。\n1月11日晚，中兴商业曾发布股票交易异常波动公告称，公司连续两个交易日收盘价格涨幅偏离值累计达20%以上，但公司核实后发现前期披露的信息不存在需要更正、补充之处；公司未发现近期有可能或已经对公司股票交易价格产生较大影响的未公开重大信息；公司目前经营情况正常，内外部经营环境未发生重大变化；公司、控股股东及实际控制人不存在关于公司的应披露而未披露的重大事项，或处于筹划阶段的重大事项；股票交易异常波动期间，公司控股股东、实际控制人未买卖公司股票。\n天眼查App显示，中兴-沈阳商业大厦(集团)股份有限公司成立于1997年，法定代表人为屈大勇，注册资本41571万元，大股东为辽宁方大集团实业有限公司，后者控股股东是北京方大国际实业投资集团有限公司，最终受益人为方威。\n据了解，中兴商业是东北地区最大的集商品销售、休闲健身、餐饮娱乐为一体的现代化、多功能、一站式服务的大型百货商场之一，公司主要经营百货商场、连锁超市，停车场服务，非居住房地产租赁，普通货物仓储服务，初级农产品加工销售等。2019年辽宁方大成为中兴商业的第一大股东。\n值得注意的是，2022年业绩大跌的中兴商业，2023年终于扭转了颓势。财报数据显示，2023年前三季度中兴商业营收6.15亿元，同比增长13.64%；净利润为8013.25万元，同比增长66.48%。（作者 | 李丹 编辑 | 陈芳 ）",
+          "link": "https://www.aicaijing.com.cn/article/19153",
+          "publishedOn": "2024-01-16T03:11:24.000Z",
+          "wordCount": null,
+          "title": "中兴商业股价大跌，开盘逼近跌停，开年曾连续4个交易日涨停",
+          "imageUrl": null
         },
         {
-          "id": "60c08938d3126007592d56f5",
-          "author": null,
-          "description": "Many software applications need to exchange data between a client and server.  For a long time, XML was the preferred data format when it came to information exchange between the two points. Then in early 2000, JSON was introduced as an alternate data format for information exchange. In this article,",
-          "link": "https://www.freecodecamp.org/news/what-is-json-a-json-file-example/",
-          "publishedOn": "2021-11-29T19:16:16.000Z",
-          "wordCount": 1544,
-          "title": "JSON for Beginners – JavaScript Object Notation Explained in Plain English"
+          "id": "https://www.aicaijing.com.cn/article/19152",
+          "author": "市界",
+          "description": "“是时候，搞点大的了。”\n2023年6月，江西首富、光伏组件龙头晶科能源董事长李仙德公开发布了一篇名为《把硬仗的氛围感拉满》的致辞，在结尾处，他如是说。\n现在看来，晶科能源确实搞出了“大事”。根据索比光伏网&索比咨询最新公布的统计数据，截至2023年底，晶科能源组件出货量超过75 GW，成为全球第一。\n与之相伴的，是晶科能源多次进行大手笔融资，大规模扩产。自从2022年1月登陆A股，晶科能源在两年时间里募资额已接近300亿元。2023年6月，晶科能源宣布豪掷560亿元，在山西规划投资建设年产56 GW的项目。当下，光伏电池的技术竞争趋于白热化，晶科能源大胆的逆势扩张，是基于它对未来主流技术的判断，从而进行的全面押注。\n业内有种说法，光伏市场正处于“最强内卷”状态。在新一轮行业洗牌的关口，晶科能源试图强势“登顶”的雄心毕现。但同时，这也是一场关系到晶科千亿身家的关键抉择。\n根据晶科能源披露的财报，截至2023年前三季度，公司实现营业总收入850.97亿元，同比增长61.25%；归母净利润63.54亿元，同比增长279.14%。\n但截至2024年1月15日，晶科能源收盘8.67元/股，总市值867.45亿元；和2023年初的16.32元/股相比，股价已经腰斩。2022年8月，晶科能源股价一度盘中触达19元左右的高点，巅峰市值超1800亿元，现在已经蒸发千亿。\n01、“江西第一民企”，要打一场硬仗\n李仙德去年上半年发表的那篇董事长致辞，堪称是一篇战斗檄文：他认为，光伏领域经历了之前的快速发展后，“任何一场盛宴之后注定迎来一场盛战，历史从来没有例外”。\n也因此，在李仙德率领下的晶科能源，想要夺得光伏组件“老大”之位的心情，也更急迫：毕竟它是曾经的光伏组件出货量全球冠军；但现在，它已经失去这个位置3年之久了。\n去年11月，2023江西民营企业100强榜单公布。晶科能源控股有限公司以1…",
+          "link": "https://www.aicaijing.com.cn/article/19152",
+          "publishedOn": "2024-01-15T11:00:18.000Z",
+          "wordCount": null,
+          "title": "江西第一民企，一把“梭哈”",
+          "imageUrl": null
         },
         {
-          "id": "61a0dae325888a07c3e1bee6",
-          "author": null,
-          "description": "These 7 tricks and tips will take you from 50% to 90% accuracy for your image recognition models in literally minutes. So, you have gathered a dataset, built a neural network, and trained your model. But despite the hours (and sometimes days) of work you've invested to create the model,",
-          "link": "https://www.freecodecamp.org/news/improve-image-recognition-model-accuracy-with-these-hacks/",
-          "publishedOn": "2021-11-29T17:09:30.000Z",
-          "wordCount": 1153,
-          "title": "How to Improve the Accuracy of Your Image Recognition Models"
+          "id": "https://www.aicaijing.com.cn/article/19151",
+          "author": "市界",
+          "description": "1月15日，据媒体报道，海天味业成立工程技术公司引发关注，舆论猜测其要进军AI。对此，海天味业董秘张欣回应称：“千万不要误会，就是做我司的酿造设备而已。”\n天眼查App显示，天致（广东）工程技术有限公司于近日成立，其法定代表人为陈建义，注册资本1000万人民币，经营范围包括人工智能应用软件开发、计算机软硬件及辅助设备零售、软件销售、基于云平台的业务外包服务、人工智能理论与算法软件开发等。股东信息显示，该公司由海天味业全资持股。\n\n值得注意的是，受“科技与狠活”事件影响，海天味业去年的业绩并不好。财报数据显示，海天味业2023年前三季度营业总收入为186.5亿元，同比下滑2.33%；净利润为43.39亿元，同比减少7.12%。1月15日收盘，海天味业每股报34.31元，微跌，总市值为1907.84亿元。\n不过，海天味业23万股东估计高兴不起来，目前海天味业的股价与2021年年初每股124.68元的最高点相比，已经缩水72%，总市值蒸发超5000亿元。（作者 | 李丹 编辑 | 陈芳）",
+          "link": "https://www.aicaijing.com.cn/article/19151",
+          "publishedOn": "2024-01-15T10:24:41.000Z",
+          "wordCount": null,
+          "title": "海天味业回应成立工程技术公司，否认进军AI，强调只是酿造设备",
+          "imageUrl": null
         },
         {
-          "id": "61a3882925888a07c3e1ce6d",
-          "author": null,
-          "description": "When you're programming, you'll often need to switch between data types.  The ability to convert one data type to another gives you great flexibility when working with information.  There are different built-in ways to convert, or cast, types in the Python programming language.  In this article, you'll learn how to",
-          "link": "https://www.freecodecamp.org/news/python-convert-string-to-int-how-to-cast-a-string-in-python/",
-          "publishedOn": "2021-11-29T16:47:01.000Z",
-          "wordCount": 1030,
-          "title": "Python Convert String to Int – How to Cast a String in Python"
+          "id": "https://www.aicaijing.com.cn/article/19150",
+          "author": "市界",
+          "description": "1月15日，有媒体报道连锁餐饮店遇见小面正在与银行商讨香港IPO事宜，可能筹资约1亿美元。\n天眼查App显示，遇见小面公司全名为广州遇见小面餐饮股份有限公司，公司成立于2014年，法定代表人为宋奇，注册资本1226万元。创办当年就拿下了300万元的天使轮融资。两年后拿下了来自九毛九的数百万融资，同年百福控股投了2500万元的A轮融资。2021年拿下了两轮战略融资，投资方为碧桂园创投、喜家德。\n据了解，遇见小面由宋奇、苏旭翔、罗燕灵三人共同在广州创立，以重庆小面为主打产品。由于宋奇曾在麦当劳与百胜餐饮工作过，其很早就将标准化管理运用到了门店经营上，希望让每一碗面的辣度、面条的软硬度都处于统一标准。\n值得注意的是，成立多年遇见小面的发展速度并不快。在2023年成立9周年之际，遇见小面曾对外公布门店总数仅为200家。开店慢的一个原因是，遇见小面的投资门槛偏高。据了解，投资遇见小面初期资本得需要近百万元，回报周期要一两年。\n不过，自去年开始，遇见小面按下了加速键，计划未来一年要新增100家门店，重点布局长三角城市等地区。（作者 | 张继康 编辑 | 陈芳）",
+          "link": "https://www.aicaijing.com.cn/article/19150",
+          "publishedOn": "2024-01-15T10:05:24.000Z",
+          "wordCount": null,
+          "title": "遇见小面要赴港上市了，计划筹资1亿美元，曾拿下五轮融资",
+          "imageUrl": null
         },
         {
-          "id": "61924f5811d3cb08287a6648",
-          "author": null,
-          "description": "On January 10, Class Central is launching two new bootcamps that are free, remote, and open to all.  You’ll complete freeCodeCamp’s JavaScript or Responsive Web Design certification, with weekly live streams, projects, and a friendly group of learners worldwide. Free Bootcamp Based on the freeCodeCamp CurriculumHi everyone, I’",
-          "link": "https://www.freecodecamp.org/news/new-free-bootcamps-based-on-freecodecamp-learn-javascript-webdev-with-weekly-live-streams/",
-          "publishedOn": "2021-11-29T15:55:00.000Z",
-          "wordCount": 1395,
-          "title": "New Free Bootcamps Based on freeCodeCamp – Learn JavaScript &amp; Web Development with Weekly Live Streams"
+          "id": "https://www.aicaijing.com.cn/article/19149",
+          "author": "市界",
+          "description": "把一碗豆浆卖到10元、喜欢开在LV旁边、有着“早餐界爱马仕”之称的桃园眷村，是真开不下去了。\n近日，据多家媒体报道，桃园眷村位于深圳万象天地的门店已经关闭，正式退出了广东省市场，此前它已退出北京、上海。在频繁关店下，高峰期时曾有40多家门店的桃园眷村目前只有4家门店还在营业。\n「市界」打开桃园眷村小程序发现，这个从上海起家的餐饮品牌，目前只在成都还有四家门店在营业。而曾靠微信推文出圈的桃园眷村公众号，至今已有三个多月没有更新，最后一条还停留在2023年9月23日，发布的是一张关于秋分的海报。\n\n桃园眷村所属的公司名为上海眷飨餐饮管理有限公司，成立于2015年。天眼查App信息，该公司法定代表人为段国兴，公司董事长为汤卫东，注册资本为135万元。融资历史显示，其只在2017年12月拿下了由君联资本、铭耀资本投资的A轮融资。\n也是这笔钱，让桃园眷村有了扩张的资本，将门店开在了上海、北京、杭州、苏州、南京、武汉、厦门、合肥等多个城市。根据公开数据，到了2018年，桃园眷村年营业额超过6600万，订单量达113万。全年净收额约5200万，店均净收约140万。\n可是好景不长，自从2019年开始，桃园眷村不断有关店的新闻爆出。目前，上海眷飨餐饮管理有限公司已经被红字标注上了包括限制高消费、股权冻结、被执行人、合作风险等标签。（作者 | 李丹 编辑 | 陈芳）",
+          "link": "https://www.aicaijing.com.cn/article/19149",
+          "publishedOn": "2024-01-15T09:43:02.000Z",
+          "wordCount": null,
+          "title": "“早餐界爱马仕”快开不下去了，股权被冻结，门店只剩四家",
+          "imageUrl": null
         },
         {
-          "id": "6140e027852f4307d372d933",
-          "author": null,
-          "description": "NoSQL Databases can sometimes seem confusing and overwhelming, partly because of their flexibility. This is why we have put together a 3-hour video course to help you understand exactly what a NoSQL Database is, as well as the different types available to you.  By the end of this course, you",
-          "link": "https://www.freecodecamp.org/news/learn-nosql-in-3-hours/",
-          "publishedOn": "2021-11-29T15:47:00.000Z",
-          "wordCount": 765,
-          "title": "Learn About NoSQL Databases in This 3-hour Course"
+          "id": "https://www.aicaijing.com.cn/article/19148",
+          "author": "市界",
+          "description": "近日，比亚迪旗下高端品牌仰望，发布了全新车型“仰望U7”并同时开启预定。\n这也是继百万级硬派豪华越野仰望U8、百万级纯电性能超跑之后，仰望系列第三款定位为百万级的新能源旗舰轿车。官图发布后不久，1月13日，有网友爆出了该车的实车外观。\n仰望U7拥有超过1000匹的马力，并配备四轮四电机独立驱动的“易四方”技术。车身尺寸方面，仰望U7长宽高分别为5265*1998*1517mm，轴距则为3160mm，接近大型旗舰轿车的身材。其Cd0.195的风阻系数，号称“全球量产轿车最低风阻”，并获得了中汽学会C-STAA车型认证。\n在仰望U7的设计上，官方将其称为“时空之门”家族式语言，具有鲜明辨识度的C字型头灯则被命名为“星际穿越大灯”，C柱部分也采用时下流行的溜背式设计。车型照片显示，仰望U7还配备了空气动力学车体套件，激光雷达和隐藏式门把手。\n天眼查App显示，深圳仰望汽车有限公司成立于2023年8月，注册资本500万元，由比亚迪汽车工业有限公司全资持有。（文｜黄硕 编辑｜田晏林）",
+          "link": "https://www.aicaijing.com.cn/article/19148",
+          "publishedOn": "2024-01-15T09:25:42.000Z",
+          "wordCount": null,
+          "title": "又一辆售价百万的比亚迪来了",
+          "imageUrl": null
         },
         {
-          "id": "61a4b12225888a07c3e1d240",
-          "author": null,
-          "description": "Spell check in Microsoft Word and other Word Processing apps is a powerful feature. With spell check, you don’t have to worry too about making small grammatical and typographical errors, because the program will point them out for you in real-time as you type.  But sometimes, the spell check",
-          "link": "https://www.freecodecamp.org/news/spell-check-not-working-in-word-fixed-on-windows-10-pc/",
-          "publishedOn": "2021-11-29T14:53:48.000Z",
-          "wordCount": 741,
-          "title": "Spell Check Not Working in Word [Fixed on Windows 10 PC]"
+          "id": "https://www.aicaijing.com.cn/article/19147",
+          "author": "市界",
+          "description": "1月15日，极氪汽车官宣2024款极氪009上市，共推出WE版和ME版两个配置版本，售价分别为50万元和58.8万元。相比老款，新的WE版车型售价提高了1000元，而ME版车型售价保持不变，变化主要集中在了配置升级。\nWE版车型将此前价值4000元的流媒体内后视镜、5000元的方向盘电动调节、6000元的副驾座椅舒适套装从选装变为了标配，同时也与ME版车型一起升级了价值4000元的第三排双层隔音玻璃。其中，方向盘支持4向电动调节和与座椅的联动，还可根据不同FACE ID账号自动调节方向盘位置。副驾座椅舒适套裝包含了12向电动调节与气动式按摩。ME版车型则只升级了第三排双层隔音玻璃。\n天眼查App显示，浙江极氪智能科技有限公司成立于2021年7月，是吉利控股集团旗下的高端新能源品牌。\n极氪009定位中大型MPV，基于SEA浩瀚架构打造。全系采用双电机四驱，总功率400kW，总扭矩686牛·米，官方零百加速仅为4.5秒，同时全系标配空气悬架和CCD电磁减振系统。WE版电池容量为116kWh，CLTC综合工况续航里程为702km；ME版电池容量为140kWh，CLTC综合工况续航里程为822km。（文｜黄硕 编辑｜田晏林）",
+          "link": "https://www.aicaijing.com.cn/article/19147",
+          "publishedOn": "2024-01-15T09:19:45.000Z",
+          "wordCount": null,
+          "title": "起售50万，新款极氪009上市，低配车型涨价1000元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aicaijing.com.cn/article/19146",
+          "author": "市界",
+          "description": "1月15日，海尔新设了两家子公司，分别为青岛海有蓝控股有限公司和海盈康（青岛）医疗科技有限公司。天眼查App显示，两家公司的法定代表人分别为邢凤霞和龚雯雯，注册资本分别为15亿和60亿人民币。\n据了解，这两家新成立公司的经营范围涵盖企业总部管理、以自有资金从事投资活动、物联网技术研发、物联网应用服务以及互联网数据服务等多元化领域。\n股东信息方面，青岛海有蓝控股有限公司为海尔集团公司全资子公司，而海盈康（青岛）医疗科技有限公司则由同日成立的青岛海有蓝控股有限公司全资控股。\n\n官网信息显示，成立于1984年的海尔是中国知名的家电企业，目前在全球设立了10大研发中心、71个研究院、35个工业园、138个制造中心和23万个销售网络，集团旗下有4家上市公司，拥有海尔、卡萨帝、Leader等多个品牌。\n其中，在A股上市的海尔智家截至1月15日每股报收21.65元，总市值为2043亿元。2023年前三季度，海尔智家营收1986.57亿元，同比增长7.5%；净利润132.65亿元，同比增长13.24%。（作者 | 张继康 编辑 | 陈芳）",
+          "link": "https://www.aicaijing.com.cn/article/19146",
+          "publishedOn": "2024-01-15T09:07:38.000Z",
+          "wordCount": null,
+          "title": "海尔集团斥资75亿成立新公司，去年前三季度海尔智家营收近2000亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aicaijing.com.cn/article/19145",
+          "author": "市界",
+          "description": "1月14日，极越汽车举办了“汽车机器人进化日”。此次活动，集度CEO、极越CEO夏一平是以直播形式，驾驶极越01从上海嘉定出发至极越杭州城西银泰体验店，全程使用点到点领航辅助驾驶PPA，并宣布OTA将进行大版本升级。\n据悉，这是极越01车型自2023年10月交付以来的首次升级，在智能驾驶、智能座舱、娱乐系统、安全功能和整体体验等方面总共进行了超过400项功能优化。\n极越汽车将“BEV+OCC+Transformer”组成的纯视觉感知智驾体系正式命名为“B.O.T三向箔”，此次OTA升级将其与百度联合研发的OCC占用网络技术纳入了感知模型中，支持栅栏、护栏等有一定长度的通用障碍物边界的识别。\n此外，PPA点对点领航辅助驾驶功能，新增开了北京、杭州、深圳三座城市，同时优化了泊车和行车逻辑，实现了允许借用黄虚线绕行等诸多功能。据夏一平介绍，用户出行途中，PPA智驾里程占出行总里程比例是友商基础辅助智驾的2-4倍，其中上海市甚至高达47.9%。\nOTA升级后，车载的百度文心一言大模型将从3.5升级为4.0，语音助手SIMO也充分融合，车内外的识别更加细致与灵活。安全功能则增加了紧急录像和转向图像辅助，优化了哨兵模式。娱乐生态新增B站、小宇宙、云听等应用，也新增了Switch等设备有线投屏，虚拟手柄控制车载游戏等玩法。\n体验细节上，极越汽车围绕用户高频使用的细节场景更新了远程预约空调、导航显示红绿灯读秒、雨天自动关窗、电池预热及冷却等功能。\n天眼查App显示，杭州极与越汽车科技有限公司成立于2023年8月，注册资本为1000万元。浙江吉利控股集团有限公司间接持有65%的股份，北京百度网讯科技有限公司间接持有35%的股份。（文｜黄硕 编辑｜田晏林）",
+          "link": "https://www.aicaijing.com.cn/article/19145",
+          "publishedOn": "2024-01-15T08:36:02.000Z",
+          "wordCount": null,
+          "title": "超400项功能更新，极越汽车首次推送大版本OTA升级",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aicaijing.com.cn/article/19144",
+          "author": "市界",
+          "description": "距离2024年春节档大幕拉开还有一个月，“消失”了一年的贾玲，为她的新电影放出了一记大招。\n1月11日，贾玲突然发布了一条“成功减重100斤”的微博，一小时内便拉爆了热搜。贾玲透露，为了这部亲自执导并主演的春节档新片《热辣滚烫》，她已经把自己“练成了拳击手的样子”。\n贾玲减重的消息，也在朋友圈里掀起热议。“减重100斤？她原来是多少斤？”不少医疗、健康领域的大V们，还顺势蹭了一波热度，给出了“快速减重不利于身体健康”的建议。\n不过人们现在最好奇的是，甩掉100斤体重后贾玲变成什么样了。但这显然是电影未来出街的“最高机密”，正被贾玲的团队捂得密不透风。\n据接近《热辣滚烫》的从业者小璐向「市界」透露：贾玲减重是在专业健身团队的指导下完成的，效果“基本是大变活人”。为此，贾玲在过去一年里，几乎放弃了所有公开活动，因此损失了不小收益。2023年10月开播的《王牌对王牌》第8季中，贾玲作为当家主持，也因拍摄电影而缺席。\n贾玲甩掉体重、牺牲掉一年收入的巨大决心，也拉高了业界对《热辣滚烫》的期待。小璐认为，《热辣滚烫》已经显现出了春节档票房的“冠军相”，“不爆没道理。”\n另据一位影视行业制片人张远对「市界」透露，2021年，贾玲执导的《你好，李焕英》意外豪揽54亿票房，杀入了内地票房榜前三。但彼时最大的赢家还是头号出品方北京文化，以及电影的保底发行方。“当时贾玲做导演初出茅庐，还是保守了，最后她的票房分账最多1个亿”。\n而这一次，赌上了收入与体重的贾玲，能在春节档杀出，再复制一次《你好，李焕英》的奇迹吗？\n01、消失的贾玲\n1月11日，贾玲正式官宣了自己的减重成果，表示“电影里有一个过去的我，也有一个新的我”。截至目前，该微博已被转发超过100万条。微博下被点赞最多的一条评论是：“自己拍自己导演自己演，真正的大女主爽文。”\n\n微博发布一小时后，贾玲减重的消息霸榜了多条微博热搜。《热辣滚烫…",
+          "link": "https://www.aicaijing.com.cn/article/19144",
+          "publishedOn": "2024-01-15T06:47:49.000Z",
+          "wordCount": null,
+          "title": "贾玲减掉的100斤，每斤至少值200万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aicaijing.com.cn/article/19143",
+          "author": "市界",
+          "description": "最近，韩后创始人王国安拍卖7000万豪宅引起关注。\n据《中国企业家》报道，巅峰时期，王国安手中有300多套房子，房产证一个行李箱都装不完。后因一起与骄龙资产的1500万借贷纠纷，成了“人人喊打”的“老赖”。\n这件事直接导致王国安个人股权被冻结，韩后借壳上市失败。进而银行要求还贷，投资机构要求创始人回购，供应商要求赔偿货款。最高时，王国安身上的债务多达15亿元。\n据王国安描述，与骄龙资产之间产生的1500万元借款，是蹚了跟自己毫无关系的“浑水”。\n他还称，骄龙资产目前的实控人王某某，此前是大韩航空的空姐，并发视频称，希望自己能跟美女空姐见个面，协商解决。这让外界对于骄龙资产生好奇。\n\n▲（“韩后创始人王敢敢”短视频账号截图）\n深挖下去，骄龙资产创始人王德亮，是叱诧风云的资本玩家，他的儿子王泽龙，24岁就以15亿美元跻身全球最年轻亿万富豪。\n01、95后亿万富豪\n2021年，福布斯全球最年轻亿万富翁排行榜上出现了一个在大众看来有点陌生的名字，24岁的中国小伙王泽龙，以15亿美元财富，成为全球第二大年轻的亿万富豪。\n据公开信息，王泽龙出生于1996年，榜单上注明其财富来源为中核钛白和龙蟒佰利。\n事实上，2019年12月，一则中核钛白的股权转让公告就将王泽龙置于聚光灯下。公告显示，王泽龙以3.8元/股的价格作价16.36亿元买下中核钛白实控人李建锋的4.3亿股股份，晋升为新的实控人。\n入主中核钛白，也成为王泽龙跻身全球最年轻富豪行列的最大助推。\n中核钛白主要从事金红石型钛白粉的研发、生产和销售。彼时，公司已形成近40万吨的金红石型钛白粉年生产能力，产能位列国内第二位、全球第六位。\n王泽龙入主时的2019年，受产能过剩影响，钛白粉价格降至12410元/吨均价低点，2020年起迅速上涨，2021年6月达到20660元/吨，涨幅近一倍。同年，中核钛白利润暴涨156.03%，股价最高涨至1…",
+          "link": "https://www.aicaijing.com.cn/article/19143",
+          "publishedOn": "2024-01-14T07:54:35.000Z",
+          "wordCount": null,
+          "title": "95后亿万富豪卷入韩后老板“被骗”风波",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aicaijing.com.cn/article/19142",
+          "author": "市界",
+          "description": "万达电影不姓王之后，管理层来了一次换血。\n1月12日，万达电影宣布了一场重大的人事调整，董事长张霖和董事尹香今双双辞职，将不再担任公司任何职务。\n张霖长期在万达文化集团任职，他曾担任体育、电影等板块多个重大项目的操盘手，而尹香今则是张霖多年的搭档。伴随着两位万达老臣的离去，公告又进一步宣布，陈曦和龚峤将成为非独立董事候选人。\n卖掉万达电影控制权、转让一二线万达广场，一系列雷霆手段，让王健林又熬过了2023年的债务难关，人们再次震惊于首富的朋友圈实力。\n可没想到的是，老王前脚刚度过债务关口的高压，后脚就遭到了股东们的“背刺”——在一项事关老王重大利益的方案面前，股东们突然变脸，不再买帐了。\n2024年1月8日晚间，万达电影召开了2024年第一次临时股东大会，会议内容则是审议一份关于《关于调整发行股份购买资产暨关联交易业绩承诺事项的议案》。按照王健林的意愿，其计划将原有的2022年的利润承诺，延期到2023年，并强调“利润总额不变。”\n从公告数据看，万达影视2022年实现净利润-7.1亿元，但根据2023年前三季度2.7亿元净利估算，全年则至少可实现净利2.7亿元以上。两相比较，如调整议案顺利通过，王健林能少赔付9.8亿以上的业绩差额。\n但令许多人意外的是，这项方案竟遭到了现场股东的投票反对，反对票比例高达70.68%。而这种局面，对于此前信奉军事化管理、重视强执行文化的万达电影，并不多见。\n大家都知道，万达电影是王健林的“心头肉”，若非万达商管年内上市彻底无望，王健林不会放弃万达电影。而现在，伴随着万达电影股东结构的变化，各方也由此陷入角力，老王“一言堂”的日子再也回不去了。\n\n \n01、谁领投了反对票？\n股东大会审议的内容，是要对万达影视原业绩承诺期进行调整。从公告内容透露的表决结果来看，现场投出同意票的股份占27.4759％，而投出反对票的则高达70.6811％，另有1.…",
+          "link": "https://www.aicaijing.com.cn/article/19142",
+          "publishedOn": "2024-01-14T07:44:06.000Z",
+          "wordCount": null,
+          "title": "没了控制权，王健林遭两大股东“背刺”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aicaijing.com.cn/article/19141",
+          "author": "市界",
+          "description": "最近，中产爱穿的始祖鸟被“泼天的流量”砸到过两次。\n一是因一件“被炒到1万2”的龙年限定冲锋衣，被吐槽上热搜；二是其母公司亚玛芬体育，终于在一声声“不予置评”中，踏上了赴美IPO的道路。\n倘若细咂，两者之间，又有着些许关联。\n自打被安踏集团收购以来，始祖鸟便在“变富人鸟”的道路上一往无前。“消费者买的是故事，是一种精神寄托，而不是一件实际的商品。”一手把始祖鸟推上运动奢侈品宝座，人送外号“鸟总”的安踏老臣徐阳，曾在受访时如是坦言。\n而当国内170多万始祖鸟拥趸，集体认同“始祖鸟代表品质和身份认同”的价值观时，也带飞了亚玛芬的业绩：2023年前9个月，亚玛芬营收同比增长29.9%至30.53亿美元。其中，大中华地区业绩增速67.6%，绝对领跑，主要靠始祖鸟。\n从FILA、始祖鸟到萨洛蒙（Salomon），2000亿服装巨头安踏有一整套“可复制粘贴”的品牌打造方法论。反过来，这些量价齐升的品牌，又成了安踏“超阿迪赶耐克”的砝码。可即便如此，放眼全球市场，安踏离对手也尚有差距。\n根据招股书数据，2022年，亚玛芬营收35亿美元（约合人民币250亿元），再加上安踏自身的536.5亿元，总共786.5亿元，约为阿迪达斯的1/2，耐克的1/5。\n这或许意味着，想真正成为“世界的安踏”，一个始祖鸟还不够。安踏可选的路径不外乎：要么，把“始祖鸟们”卖得更多更贵；要么，收购更多的“始祖鸟”。\n01、中国中产力挺\n作为人类现知最早的鸟类，始祖鸟怕是没想过，和龙攀上关系，自己能身价大增。\n1991年，一个痴迷攀岩的加拿大小伙儿，把自己创立两年的户外品牌，更名为始祖鸟Arc’teryx，寓意“进取和探险精神”。品牌logo，也与之呼应，灵感来自于一只名叫“HMN 1880柏林标本”的始祖鸟化石。\n再之后，因为用经典的Gore-tex面料（一种防水、透气、防风的面料，被誉为“世纪之布”），剪裁版型上…",
+          "link": "https://www.aicaijing.com.cn/article/19141",
+          "publishedOn": "2024-01-14T07:40:10.000Z",
+          "wordCount": null,
+          "title": "百万中产撑起一个700亿IPO",
+          "imageUrl": null
         }
       ]
     }
   ],
-  "cliVersion": "1.11.3"
+  "cliVersion": "1.15.1"
 }
